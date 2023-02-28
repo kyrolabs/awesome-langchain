@@ -68,3 +68,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Build a GitHub support bot with GPT3, LangChain, and Python](https://dagster.io/blog/chatgpt-langchain)
 * [The Emergence Of Large Language Model (LLM) API Build Frameworks](https://cobusgreyling.medium.com/the-emergence-of-large-language-model-llm-api-build-frameworks-78d83d68eeda)
 
+## Other
+
+* [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
