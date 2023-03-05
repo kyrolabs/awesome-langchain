@@ -53,7 +53,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Fact Checker](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain
 * [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
 * [Buff](https://github.com/getbuff/Buff): intelligent customer support bot
-* [QABot](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai]
+* [QABot](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai
+* [GPT Automator](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant.
 
 ## Platforms
 
