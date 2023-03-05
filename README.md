@@ -53,6 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Fact Checker](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain
 * [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
 * [Buff](https://github.com/getbuff/Buff): intelligent customer support bot
+* [Query local or remote files or databases with natural language queries powered by langchain and openai](https://github.com/hardbyte/qabot)
 
 ## Platforms
 
