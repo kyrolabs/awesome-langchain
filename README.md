@@ -48,13 +48,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation
 * [Chat LangchainJS](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain
 * [Langchain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat.
-* [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
+* [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 * [Doc Search](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3
 * [Fact Checker](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain
 * [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
 * [Buff](https://github.com/getbuff/Buff): intelligent customer support bot
 * [QABot](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai
 * [GPT Automator](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant.
+* [Teams LangchainJS](https://github.com/SidU/teams-langchain-js): Demonstration of LangChainJS with Teams / Bot Framework bots
 
 ## Platforms
 
