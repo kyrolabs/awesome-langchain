@@ -61,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Platforms
 
 * [Steamship](https://www.steamship.com/): steamship is a Managed Backend for AI services
+* [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
 
 ## Videos
 
