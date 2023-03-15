@@ -31,7 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tools
 
-* (Langflow)[https://github.com/logspace-ai/langflow]: LangFlow is a UI for LangChain
+* [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
 
 ## Cookbooks
 
