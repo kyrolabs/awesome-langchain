@@ -29,6 +29,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Codespaces Template](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds!
 * [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio
 
+## Tools
+
+* (Langflow)[https://github.com/logspace-ai/langflow]: LangFlow is a UI for LangChain
+
 ## Cookbooks
 
 * [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
