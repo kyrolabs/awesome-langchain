@@ -61,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [GPT Automator](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant.
 * [Teams LangchainJS](https://github.com/SidU/teams-langchain-js): Demonstration of LangChainJS with Teams / Bot Framework bots
 * [ChatGPT](https://github.com/biff-ai/chatgpt-langchainjs-example): ChatGPT & langchain example for node.js & Docker
+* [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs.
 
 ## Platforms
 
