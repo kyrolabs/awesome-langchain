@@ -67,6 +67,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Steamship](https://www.steamship.com/): steamship is a Managed Backend for AI services
 * [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
+* [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina 🚀
 
 ## Videos
 
