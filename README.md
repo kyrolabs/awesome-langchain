@@ -77,6 +77,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [What Is LangChain? - LangChain + ChatGPT Overview](https://www.youtube.com/watch?v=_v_fgW2SkkQ)
 * [LangChain Demo + Q&A with Harrison Chase](https://www.youtube.com/watch?v=zaYTXQFR0_s)
 * [LangChain for LLMs is... basically just an Ansible playbook](https://www.youtube.com/watch?v=X51N9C-OhlE) (David Shapiro)
+* [Data Independent Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
 ## Articles
 
