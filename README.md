@@ -16,12 +16,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [LangChainers](https://www.langchainers.com/): Langchainers official website, blog/newsletter
 
 ### Not updated
+
 * [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents
 
 ## Tools and Plugins
+
 * [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
 * [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍
 * [Langchain visualizer](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows
+* [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
 
 ## Templates
 
@@ -35,9 +38,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library
 * [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
-* [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): James Briggs' LangChain handbook
+* [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
 
 ## Open Source Projects
+
 * [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 * [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
 * [Steamship ](https://www.steamship.com/build/ask-my-book-site): just upload a PDF and get a full Vercel site
@@ -80,7 +84,3 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Multilingual Semantic Search with Cohere and Langchain](https://txt.cohere.ai/search-cohere-langchain/)
 * [How Haystack and LangChain are Empowering Large Language Models](https://mantiumai.com/blog/how-haystack-and-langchain-are-empowering-large-language-models/)
 * [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials)
-
-## Other
-
-* [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
