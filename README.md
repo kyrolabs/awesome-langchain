@@ -60,6 +60,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs.
 * [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval
 * [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
+* [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 
 ## Platforms
 
