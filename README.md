@@ -13,7 +13,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 * [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
 * [Discord](https://discord.gg/6adMQxSpJS): discussion 
-* [LangChainers](https://langchainers.hashnode.dev/): blog/newsletter
+* [LangChainers](https://www.langchainers.com/): Langchainers official website, blog/newsletter
 
 ### Not updated
 * [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents
