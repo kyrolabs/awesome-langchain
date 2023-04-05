@@ -79,7 +79,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [How I used LangChain 🦜🔗 and GPT-3 to Automate my Boss 🤖](https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4)
 * [Multilingual Semantic Search with Cohere and Langchain](https://txt.cohere.ai/search-cohere-langchain/)
 * [How Haystack and LangChain are Empowering Large Language Models](https://mantiumai.com/blog/how-haystack-and-langchain-are-empowering-large-language-models/)
-* [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials}
+* [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials)
 
 ## Other
 
