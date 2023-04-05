@@ -18,8 +18,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Not updated
 * [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents
 
-## Plugins
-
+## Tools and Plugins
+* [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
 * [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍
 * [Langchain visualizer](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows
 
@@ -31,14 +31,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Codespaces Template](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds!
 * [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio
 
-## Tools
-
-* [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
-
-## Cookbooks
-
-* [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
-
 ## Notebooks
 
 * [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library
@@ -46,7 +38,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): James Briggs' LangChain handbook
 
 ## Projects
-
+* [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 * [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
 * [Railways Doc](https://railbot.vercel.app/): chat with railways docs
 * [Steamship ](https://www.steamship.com/build/ask-my-book-site): just upload a PDF and get a full Vercel site
