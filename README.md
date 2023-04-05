@@ -37,12 +37,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
 * [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): James Briggs' LangChain handbook
 
-## Projects
+## Open Source Projects
 * [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 * [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
-* [Railways Doc](https://railbot.vercel.app/): chat with railways docs
 * [Steamship ](https://www.steamship.com/build/ask-my-book-site): just upload a PDF and get a full Vercel site
-* [Berri](https://berri.ai/): Berri lets you easily connect your data and build production-ready chatGPT apps in minutes
 * [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation
 * [Chat LangchainJS](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain
 * [Langchain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat.
