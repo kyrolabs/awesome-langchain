@@ -56,8 +56,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
--[Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway
-
+- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway
 - [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation
