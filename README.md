@@ -39,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍
 - [Langchain visualizer](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows
 - [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
+- [LangTorch](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain.
 
 ## Templates
 
