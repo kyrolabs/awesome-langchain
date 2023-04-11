@@ -77,6 +77,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents.
+- [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
 
 ## Platforms
 
