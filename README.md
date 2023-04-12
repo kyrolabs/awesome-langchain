@@ -110,3 +110,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Multilingual Semantic Search with Cohere and Langchain](https://txt.cohere.ai/search-cohere-langchain/)
 - [How Haystack and LangChain are Empowering Large Language Models](https://mantiumai.com/blog/how-haystack-and-langchain-are-empowering-large-language-models/)
 - [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials)
+- [Build an Ecommerce Chatbot With Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
