@@ -53,6 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit
 - [Codespaces Template](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds!
 - [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio
+- [AgentGPT](https://vercel.com/templates/next.js/agent-gpt): AI Agents with Langchain & OpenAI (Vercel / Nextjs)
 
 ## Notebooks
 
