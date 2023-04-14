@@ -81,6 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents.
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
+- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML
 
 ## Platforms
 
