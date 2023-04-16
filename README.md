@@ -82,6 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents.
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
 - [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML
+- [spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled.
 
 ## Platforms
 
