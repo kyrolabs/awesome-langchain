@@ -11,11 +11,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [🦜🔗 Awesome LangChain ](#-awesome-langchain-)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
-  - [Tools and Plugins](#tools-and-plugins)
+  - [Tools](#tools)
+    - [Low-code / No-code](#low-code--no-code)
+    - [Code](#code)
+    - [Plugins](#plugins)
+  - [Platforms](#platforms)
   - [Templates](#templates)
   - [Notebooks](#notebooks)
-  - [Open Source Projects](#open-source-projects)
-  - [Platforms](#platforms)
+  - [Examples](#examples)
   - [Videos](#videos)
   - [Articles](#articles)
 
@@ -26,21 +29,42 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 - [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
 - [Discord](https://discord.gg/6adMQxSpJS): discussion
+- [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
 - [LangChainers](https://www.langchainers.com/): Langchainers official website, blog/newsletter
 - [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents
 
-## Low-code / No-code tools
+## Tools
+
+### Low-code / No-code
 
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
 - [Yeager.ai](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease
 - [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS
 
-## Plugins
+### Code
+
+- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway
+- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML
+- [spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled.
+- [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
+- [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
+- [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs.
+- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval
+- [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
+- [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
+
+### Plugins
 
 - [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍
 - [Langchain visualizer](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows
 - [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
 - [LangTorch](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain.
+
+## Platforms
+
+- [Steamship](https://www.steamship.com/): steamship is a Managed Backend for AI services
+- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
+- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
 
 ## Templates
 
@@ -58,37 +82,21 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
 - [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners
 
-## Open Source Projects
+## Examples
 
-- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway
 - [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation
 - [Chat LangchainJS](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain
 - [Langchain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat.
-- [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [Doc Search](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3
 - [Fact Checker](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain
-- [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
-- [Buff](https://github.com/getbuff/Buff): intelligent customer support bot
 - [QABot](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai
 - [GPT Automator](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant.
 - [Teams LangchainJS](https://github.com/SidU/teams-langchain-js): Demonstration of LangChainJS with Teams / Bot Framework bots
 - [ChatGPT](https://github.com/biff-ai/chatgpt-langchainjs-example): ChatGPT & langchain example for node.js & Docker
-- [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs.
-- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval
-- [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
-- [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents.
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
-- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML
-- [spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled.
-
-## Platforms
-
-- [Steamship](https://www.steamship.com/): steamship is a Managed Backend for AI services
-- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
-- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina 🚀
 
 ## Videos
 
