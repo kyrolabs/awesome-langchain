@@ -97,10 +97,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ChatGPT](https://github.com/biff-ai/chatgpt-langchainjs-example): ChatGPT & langchain example for node.js & Docker
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents.
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
+- [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI
 
 ## Videos
 
-- [LangChain Serie by Sam Witteveen](https://www.youtube.com/watch?v=J_0qvRt4LNk&list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)
+- [LangChain Series by Sam Witteveen](https://www.youtube.com/watch?v=J_0qvRt4LNk&list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)
 - [LangChain Tutorials Playlist](https://www.youtube.com/playlist?list=PL611FKPtL866MnlDPHvI3KwVGqCB-QJAx)
 - [LangChain James Briggs' Playlist](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 - [What Is LangChain? - LangChain + ChatGPT Overview](https://www.youtube.com/watch?v=_v_fgW2SkkQ)
