@@ -82,7 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
 - [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners
 
-## Examples
+## Open Source Projects Using Langchain
 
 - [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
@@ -98,6 +98,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents.
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
 - [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI
+- [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 
 ## Videos
 
