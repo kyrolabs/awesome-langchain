@@ -53,6 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits
+- [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain
 
 ### Plugins
 
