@@ -25,7 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## LangChain Framework
 
 - [LangChain](https://github.com/hwchase17/langchain): the orginal 🐍
-- [LangChain.js](https://github.com/hwchase17/langchainjs): the contender ✨
+- [LangChain.js](https://github.com/hwchase17/langchainjs): the js brother ✨
 - [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 - [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
 - [Discord](https://discord.gg/6adMQxSpJS): discussion
@@ -113,6 +113,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Data Independent Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [Langchain Agent Webinar](https://www.crowdcast.io/c/46erbpbz609r)
 - [BabyAGI with LangChain](https://www.youtube.com/watch?v=DRgPyOXZ-oE)
+- [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
 
 ## Articles
 
