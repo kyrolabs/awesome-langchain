@@ -54,6 +54,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits
 - [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain
+- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
 
 ### Plugins
 
@@ -66,7 +67,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Steamship](https://www.steamship.com/): steamship is a Managed Backend for AI services
 - [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
-- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
 
 ## Templates
 
@@ -101,6 +101,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
 - [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI
 - [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
+- [langchain-text-summarizer](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain
 
 ## Videos
 
