@@ -126,3 +126,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [How Haystack and LangChain are Empowering Large Language Models](https://mantiumai.com/blog/how-haystack-and-langchain-are-empowering-large-language-models/)
 - [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials)
 - [Build an Ecommerce Chatbot With Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
+
+## Alternatives
+
+- [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output.
+- [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models.
+- [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data.
