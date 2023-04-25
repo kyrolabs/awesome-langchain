@@ -55,6 +55,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits
 - [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain
 - [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
+- [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents
 
 ### Plugins
 
