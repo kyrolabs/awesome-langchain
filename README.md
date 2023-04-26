@@ -40,6 +40,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
 - [Yeager.ai](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease
 - [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS
+- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval
+- [LangchainUI](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit
 
 ### Code
 
@@ -49,7 +51,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
 - [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs.
-- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval
 - [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits
