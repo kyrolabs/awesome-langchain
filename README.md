@@ -14,12 +14,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Tools](#tools)
     - [Low-code / No-code](#low-code--no-code)
     - [Code](#code)
+    - [Agents](#agents)
     - [Plugins](#plugins)
-  - [Platforms](#platforms)
+    - [Deployment Services](#deployment-services)
   - [Templates](#templates)
   - [Notebooks](#notebooks)
-  - [Open Source Projects Using Langchain](#open-source-projects-using-langchain)
-  - [AGI](#agi)
+  - [Open Source Projects](#open-source-projects)
   - [Videos](#videos)
   - [Articles](#articles)
   - [Alternatives](#alternatives)
@@ -47,20 +47,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Code
 
-- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway
-- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML
 - [spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled.
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs
 - [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs.
 - [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method.
+- [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain
+
+### Agents
+
+- [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits
-- [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain
-- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
-- [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi
-- [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents
-- [LangForge](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps
 
 ### Plugins
 
@@ -69,10 +67,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
 - [LangTorch](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain.
 
-## Platforms
+### Deployment Services
 
+- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
+- [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi
+- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway
+- [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents
+- [LangForge](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps
 - [Steamship](https://www.steamship.com/): steamship is a Managed Backend for AI services
 - [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
+- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML
 
 ## Templates
 
@@ -90,7 +94,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
 - [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners
 
-## Open Source Projects Using Langchain
+## Open Source Projects
 
 - [ReadTheDocs](https://github.com/hwchase17/chat-langchain-readthedocs): create a ChatGPT like experience over your ReadTheDocs using LangChain
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question.
@@ -108,10 +112,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI
 - [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
 - [langchain-text-summarizer](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain
-
-## AGI
-
-- [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM
 
 ## Videos
 
