@@ -1,4 +1,4 @@
-# 🦜🔗 Awesome LangChain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🦜🔗 Awesome LangChain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 
 > Curated list of tools and projects using LangChain.
 
@@ -8,7 +8,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-- [🦜🔗 Awesome LangChain ](#-awesome-langchain-)
+- [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
   - [Tools](#tools)
@@ -19,12 +19,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Templates](#templates)
   - [Notebooks](#notebooks)
   - [Open Source Projects Using Langchain](#open-source-projects-using-langchain)
+  - [AGI](#agi)
   - [Videos](#videos)
   - [Articles](#articles)
+  - [Alternatives](#alternatives)
 
 ## LangChain Framework
 
-- [LangChain](https://github.com/hwchase17/langchain): the orginal 🐍
+- [LangChain](https://github.com/hwchase17/langchain): the orginal 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 - [LangChain.js](https://github.com/hwchase17/langchainjs): the js brother ✨
 - [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 - [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
@@ -37,11 +39,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Low-code / No-code
 
-- [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain
-- [Yeager.ai](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease
-- [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS
-- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval
-- [LangchainUI](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit
+- [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+- [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
+- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
+- [LangchainUI](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
+- [Yeager.ai](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
 ### Code
 
