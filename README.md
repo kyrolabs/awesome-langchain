@@ -58,6 +58,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina
 - [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi
 - [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents
+- [LangForge](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps
 
 ### Plugins
 
