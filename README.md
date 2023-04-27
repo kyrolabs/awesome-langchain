@@ -141,3 +141,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output.
 - [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models.
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data.
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps
