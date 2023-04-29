@@ -99,6 +99,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
+- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
