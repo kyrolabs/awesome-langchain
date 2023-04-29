@@ -27,13 +27,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## LangChain Framework
 
 - [LangChain](https://github.com/hwchase17/langchain): the orginal 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
-- [LangChain.js](https://github.com/hwchase17/langchainjs): the js brother ✨
+- [LangChain.js](https://github.com/hwchase17/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)
 - [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 - [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
 - [Discord](https://discord.gg/6adMQxSpJS): discussion
 - [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
 - [LangChainers](https://www.langchainers.com/): Langchainers official website, blog/newsletter
-- [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents
+- [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-hub?style=social)
 
 ## Tools
 
