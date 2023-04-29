@@ -146,9 +146,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [PromptSource](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)
 - [Agent-LLM](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)
 - [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
-- [Griptape][https://github.com/griptape-ai/griptape]: Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)
+- [Griptape](https://github.com/griptape-ai/griptape): Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)
 
 ## Complement to this list
 
-- [Awesome LLM][https://github.com/Hannibal046/Awesome-LLM]: Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
 - [LLaMA Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
