@@ -47,8 +47,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Code
 
-- [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
-- [EVAL](https://github.com/corca-ai/EVAL): EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
+- [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
+- [EVAL](https://github.com/corca-ai/EVAL): Elastic Versatile Agent with Langchain. will execute all your requests. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
 - [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
 - [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
 - [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
