@@ -127,6 +127,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Agent Webinar](https://www.crowdcast.io/c/46erbpbz609r)
 - [BabyAGI with LangChain](https://www.youtube.com/watch?v=DRgPyOXZ-oE)
 - [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
+- [LangChain Crash Course: Build a AutoGPT ](https://www.youtube.com/watch?v=MlK6SIjcjE8) (Nicholas Renotte)
 
 ## Articles
 
@@ -137,6 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [How Haystack and LangChain are Empowering Large Language Models](https://mantiumai.com/blog/how-haystack-and-langchain-are-empowering-large-language-models/)
 - [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials)
 - [Build an Ecommerce Chatbot With Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
+- [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
 
 ## Alternatives
 
