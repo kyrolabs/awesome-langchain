@@ -59,6 +59,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+- [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 
 ### Plugins
@@ -138,7 +139,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Alternatives
 
-- [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output.
-- [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models.
-- [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data.
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps
+- [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
+- [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
+- [PromptSource](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)
+- [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
