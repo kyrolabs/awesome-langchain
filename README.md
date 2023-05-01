@@ -54,13 +54,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
 - [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
 - [spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled. ![GitHub Repo stars](https://img.shields.io/github/stars/rafalzawadzki/spellbook-forge?style=social)
+- [Auto Evaluator](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
 
 ### Agents
 
 - [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)
-- [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
+- [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 
 ### Deployment Services
@@ -92,7 +93,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
-- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head
+- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
@@ -136,7 +137,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Alternatives
 
-- [llm-chain](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
 - [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
@@ -144,6 +144,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Agent-LLM](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)
 - [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
 - [Griptape](https://github.com/griptape-ai/griptape): Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)
+- [llm-chain](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
 - [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/BoxcarsAI/boxcars?style=social)
 - [LangTorch](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Knowly-ai/langtorch?style=social)
 
