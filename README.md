@@ -73,6 +73,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML ![GitHub Repo stars](https://img.shields.io/github/stars/ssheng/BentoChain?style=social)
 - [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
 - [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
+- [fastapi-async-langchain](https://github.com/ajndkr/fastapi-async-langchain): Ship production-ready LangChain projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/fastapi-async-langchain?style=social)
 - [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
 
 ## Templates
