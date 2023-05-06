@@ -30,6 +30,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain.js](https://github.com/hwchase17/langchainjs): the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)
 - [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 - [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
+- [Youtube Channel](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
 - [Discord](https://discord.gg/6adMQxSpJS): discussion
 - [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
 - [LangChainers](https://www.langchainers.com/): Langchainers official website, blog/newsletter
