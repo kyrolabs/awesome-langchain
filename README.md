@@ -8,7 +8,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-- [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
+- [🦜🔗 Awesome LangChain  ](#-awesome-langchain--)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
   - [Tools](#tools)
@@ -112,6 +112,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)
 - [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
 - [langchain-text-summarizer](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-text-summarizer?style=social)
+- [Langchain Chat Websocket](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
 
 ## Videos
 
@@ -157,3 +158,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
 - [LLaMA Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
+- [Open LLMs](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
