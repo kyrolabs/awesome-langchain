@@ -8,7 +8,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-- [🦜🔗 Awesome LangChain  ](#-awesome-langchain--)
+- [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
   - [Tools](#tools)
@@ -58,9 +58,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Agents
 
-- [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)
+- [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
+- [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
+- [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 - [BabyAGI UI](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT
@@ -98,20 +100,21 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
+- [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
+- [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
+- [Langchain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
 - [Chat LangchainJS](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
-- [Langchain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
 - [Doc Search](https://github.com/namuan/dr-doc-search): converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)
 - [Fact Checker](https://github.com/jagilley/fact-checker): fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)
 - [QABot](https://github.com/hardbyte/qabot): Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)
 - [GPT Automator](https://github.com/chidiwilliams/GPT-Automator): Your voice-controlled Mac assistant. ![GitHub Repo stars](https://img.shields.io/github/stars/chidiwilliams/GPT-Automator?style=social)
 - [Teams LangchainJS](https://github.com/SidU/teams-langchain-js): Demonstration of LangChainJS with Teams / Bot Framework bots ![GitHub Repo stars](https://img.shields.io/github/stars/SidU/teams-langchain-js?style=social)
 - [ChatGPT](https://github.com/biff-ai/chatgpt-langchainjs-example): ChatGPT & langchain example for node.js & Docker ![GitHub Repo stars](https://img.shields.io/github/stars/biff-ai/chatgpt-langchainjs-example?style=social)
-- [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
 - [FlowGPT](https://github.com/nilooy/flowgpt): Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)
-- [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
 - [langchain-text-summarizer](https://github.com/alphasecio/langchain-text-summarizer): A sample streamlit application summarizing text using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-text-summarizer?style=social)
 - [Langchain Chat Websocket](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
+- [langchain_yt_tools](https://github.com/venuv/langchain_yt_tools): Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)
 
 ## Videos
 
