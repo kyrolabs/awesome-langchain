@@ -33,7 +33,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Youtube Channel](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
 - [Discord](https://discord.gg/6adMQxSpJS): discussion
 - [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
-- [LangChainers](https://www.langchainers.com/): Langchainers official website, blog/newsletter
 - [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-hub?style=social)
 
 ## Tools
