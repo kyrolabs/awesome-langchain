@@ -156,6 +156,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Go](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 - [LangchainRb](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 - [PromptFlow](https://github.com/InsuranceToolkits/promptflow): Create executable flowcharts that link LLMs (Large Language Models), Prompts, Python functions, and conditional logic together. ![GitHub Repo stars](https://img.shields.io/github/stars/InsuranceToolkits/promptflow?style=social)
+- [OpenLM](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 
 ## Complement to this list
 
