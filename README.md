@@ -117,6 +117,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Chat Websocket](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
 - [langchain_yt_tools](https://github.com/venuv/langchain_yt_tools): Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)
 - [SmartPilot](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question
+- [Quiver](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault
 
 ## Videos
 
