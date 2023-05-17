@@ -12,17 +12,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
   - [Tools](#tools)
-    - [Low-code / No-code](#low-code--no-code)
-    - [Code](#code)
-    - [Agents](#agents)
+    - [Low-code](#low-code)
     - [Services](#services)
-  - [Templates](#templates)
-  - [Notebooks](#notebooks)
+    - [Agents](#agents)
+    - [Templates](#templates)
   - [Open Source Projects](#open-source-projects)
     - [Knowledge Management](#knowledge-management)
     - [Other / Chatbots](#other--chatbots)
-  - [Videos](#videos)
-  - [Articles](#articles)
+  - [Learn](#learn)
+    - [Notebooks](#notebooks)
+    - [Videos](#videos)
+    - [Articles](#articles)
   - [Alternatives](#alternatives)
   - [Complement to this list](#complement-to-this-list)
 
@@ -39,7 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tools
 
-### Low-code / No-code
+### Low-code
 
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 - [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
@@ -47,8 +47,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangchainUI](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
 - [Yeager.ai](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
-### Code
+### Services
 
+- [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
 - [EVAL](https://github.com/corca-ai/EVAL): Elastic Versatile Agent with Langchain. will execute all your requests. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
 - [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
@@ -57,6 +58,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
 - [spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge): Make your LLM prompts executable and version controlled. ![GitHub Repo stars](https://img.shields.io/github/stars/rafalzawadzki/spellbook-forge?style=social)
 - [Auto Evaluator](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
+- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/langchain-serve?style=social)
+- [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/gradio-tools?style=social)
+- [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/steamship-langchain?style=social)
+- [LangForge](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps ![GitHub Repo stars](https://img.shields.io/github/stars/mme/langforge?style=social)
+- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML ![GitHub Repo stars](https://img.shields.io/github/stars/ssheng/BentoChain?style=social)
+- [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
+- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
+- [lanarky](https://github.com/ajndkr/lanarky): Ship production-ready LangChain projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
+- [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
+- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
 
 ### Agents
 
@@ -70,34 +81,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [BabyAGI UI](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project
 
-### Services
-
-- [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
-- [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/langchain-serve?style=social)
-- [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/gradio-tools?style=social)
-- [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/steamship-langchain?style=social)
-- [LangForge](https://github.com/mme/langforge): A Toolkit for Creating and Deploying LangChain Apps ![GitHub Repo stars](https://img.shields.io/github/stars/mme/langforge?style=social)
-- [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML ![GitHub Repo stars](https://img.shields.io/github/stars/ssheng/BentoChain?style=social)
-- [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
-- [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
-- [lanarky](https://github.com/ajndkr/lanarky): Ship production-ready LangChain projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
-- [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
-- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
-
-## Templates
+### Templates
 
 - [create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
 - [LangChain.js LLM Template](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
 - [Codespaces Template](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
 - [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
-
-## Notebooks
-
-- [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
-- [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)
-- [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
-- [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
 
 ## Open Source Projects
 
@@ -128,7 +118,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [langchain_yt_tools](https://github.com/venuv/langchain_yt_tools): Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)
 - [SmartPilot](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)
 
-## Videos
+## Learn
+
+### Notebooks
+
+- [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
+- [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)
+- [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
+- [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
+
+### Videos
 
 - [LangChain Series by Sam Witteveen](https://www.youtube.com/watch?v=J_0qvRt4LNk&list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ)
 - [LangChain Tutorials Playlist](https://www.youtube.com/playlist?list=PL611FKPtL866MnlDPHvI3KwVGqCB-QJAx)
@@ -142,7 +141,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
 - [LangChain Crash Course: Build a AutoGPT ](https://www.youtube.com/watch?v=MlK6SIjcjE8) (Nicholas Renotte)
 
-## Articles
+### Articles
 
 - [Build a GitHub support bot with GPT3, LangChain, and Python](https://dagster.io/blog/chatgpt-langchain)
 - [The Emergence Of Large Language Model (LLM) API Build Frameworks](https://cobusgreyling.medium.com/the-emergence-of-large-language-model-llm-api-build-frameworks-78d83d68eeda)
