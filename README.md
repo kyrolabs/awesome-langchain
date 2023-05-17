@@ -15,10 +15,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Low-code / No-code](#low-code--no-code)
     - [Code](#code)
     - [Agents](#agents)
-    - [Deployment Services](#deployment-services)
+    - [Services](#services)
   - [Templates](#templates)
   - [Notebooks](#notebooks)
   - [Open Source Projects](#open-source-projects)
+    - [Knowledge Management](#knowledge-management)
+    - [Other / Chatbots](#other--chatbots)
   - [Videos](#videos)
   - [Articles](#articles)
   - [Alternatives](#alternatives)
@@ -68,8 +70,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [BabyAGI UI](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project
 
-### Deployment Services
+### Services
 
+- [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Jina](https://github.com/jina-ai/langchain-serve): Langchain Apps on Production with Jina ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/langchain-serve?style=social)
 - [Gradio Tools](https://github.com/freddyaboulton/gradio-tools): Gradio 🤝 LLM Agents ![GitHub Repo stars](https://img.shields.io/github/stars/freddyaboulton/gradio-tools?style=social)
 - [steamship-langchain](https://github.com/steamship-core/steamship-langchain): adapters for Steamship, enabling LangChain developers to rapidly deploy their apps on Steamship 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-core/steamship-langchain?style=social)
@@ -77,7 +80,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [BentoChain](https://github.com/ssheng/BentoChain): LangChain Deployment on BentoML ![GitHub Repo stars](https://img.shields.io/github/stars/ssheng/BentoChain?style=social)
 - [LangCorn](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
 - [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
-- [lanarky](https://github.com/ajndkr/fastapi-async-langchain): Ship production-ready LangChain projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/fastapi-async-langchain?style=social)
+- [lanarky](https://github.com/ajndkr/lanarky): Ship production-ready LangChain projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
 - [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
 
@@ -98,11 +101,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
+### Knowledge Management
+
+- [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
+- [Quiver](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)
+- [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
+
+### Other / Chatbots
+
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
-- [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
-- [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
 - [Langchain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs): another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)
 - [Book GPT](https://github.com/fraserxu/book-gpt): drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)
 - [Chat LangchainJS](https://github.com/sullivan-sean/chat-langchainjs): NextJS version of Chat Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)
@@ -118,7 +127,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Chat Websocket](https://github.com/pors/langchain-chat-websockets): About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)
 - [langchain_yt_tools](https://github.com/venuv/langchain_yt_tools): Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)
 - [SmartPilot](https://github.com/jaredkirby/SmartPilot): A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)
-- [Quiver](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)
 
 ## Videos
 
@@ -149,7 +157,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
-- [Haystack](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs
+- [Haystack](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
 - [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)
 - [PromptSource](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)
