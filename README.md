@@ -157,6 +157,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [BabyAGI with LangChain](https://www.youtube.com/watch?v=DRgPyOXZ-oE)
 - [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
 - [LangChain Crash Course: Build a AutoGPT ](https://www.youtube.com/watch?v=MlK6SIjcjE8) (Nicholas Renotte)
+- [LangChain and the Future of LLM Agents](https://www.youtube.com/watch?v=JwO08Pk6S_Q&t=4s)
 
 ### Articles
 
@@ -168,6 +169,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DataIndependent Tutorials](https://github.com/gkamradt/langchain-tutorials)
 - [Build an Ecommerce Chatbot With Redis, LangChain, and OpenAI](https://redis.com/blog/build-ecommerce-chatbot-with-redis/)
 - [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
+- [How To Use LangChain with LLM Agent Monitoring To Fine-Tune Your LLM Apps](https://arize.com/blog-course/langchain-llm-agent-monitoring/)
 
 ## Proprietary
 
