@@ -128,6 +128,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Notion QA](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
 - [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
 - [ChatPDF](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI
+- [Chat with Scanned Documents](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
 
 ## Learn
 
