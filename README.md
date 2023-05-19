@@ -144,6 +144,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [llm-grovers-search-party](https://github.com/JavaFXpert/llm-grovers-search-party): Leveraging Qiskit, OpenAI and LangChain to demonstrate Grover's algorithm
 - [TextWorld ReAct Agent](https://colab.research.google.com/drive/19WTIWC3prw5LDMHmRMvqNV2loD9FHls6?usp=sharing)
 - [LangChain <> Wolfram Alpha](https://colab.research.google.com/drive/1AAyEdTz-Z6ShKvewbt1ZHUICqak0MiwR?usp=sharing)
+- [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
 
 ### Videos
 
