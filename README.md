@@ -2,6 +2,8 @@
 
 > Curated list of tools and projects using LangChain.
 
+# **NEW** we are launching a weekly newsletter to share with you all the updates from the ecosystem: framework update, new articles, new videos, new projects, **[register your email here](https://awesomelangchain.substack.com/)**
+
 LangChain is an amazing framework to get LLM projects done in a matter of no time and the ecosystem is growing fast. Here is an attempt to keep track of the initiatives around LangChain.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
