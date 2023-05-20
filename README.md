@@ -71,6 +71,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare
 - [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
 - [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
+- [CoFounder](https://co-founder.ai): The First AI Co-Founder for Your Start-up 🙌
 
 ### Agents
 
