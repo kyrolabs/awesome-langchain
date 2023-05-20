@@ -179,9 +179,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Proprietary
 
+- [Any Summary](https://www.anysummary.app/): Summarize any file with AI
 - [CoFounder](https://co-founder.ai): The First AI Co-Founder for Your Start-up 🙌
 - [DAIMON](https://www.mydaemon.ai/)
-- [Any Summary](https://www.anysummary.app/)
 
 ## Alternatives
 
