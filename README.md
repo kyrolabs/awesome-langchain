@@ -165,6 +165,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/)
 - [LangChain Crash Course: Build a AutoGPT ](https://www.youtube.com/watch?v=MlK6SIjcjE8) (Nicholas Renotte)
 - [LangChain and the Future of LLM Agents](https://www.youtube.com/watch?v=JwO08Pk6S_Q&t=4s)
+- [LangChain Agents in Production](https://www.crowdcast.io/c/yvg1edg8fkgc)
+- [LangChain Hallucinations in Document Question Answering](https://www.crowdcast.io/c/opfrf679279x)
 
 ### Articles
 
@@ -179,6 +181,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [How To Use LangChain with LLM Agent Monitoring To Fine-Tune Your LLM Apps](https://arize.com/blog-course/langchain-llm-agent-monitoring/)
 - [Build a Simple ChatGPT CLI with memory](https://getmetal.io/posts/07-tutorial-motorhead-cli)
 - [Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio](https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df)
+- [LangChain tutorial at PromptChap](https://promptchap.com)
 
 ## Proprietary
 
