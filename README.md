@@ -185,7 +185,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Proprietary
 
 - [Any Summary](https://www.anysummary.app/): Summarize any file with AI
-- [CoFounder](https://co-founder.ai?utm_source=langchain&utm_medium=gallary&utm_campaign=alpha): The First AI Co-Founder for Your Start-up 🙌. CoFounder is a platform to revolutionize the start-up ecosystem by providing founders with unparalleled tools, resources, and support. We are changing how founders build their companies from 0-1—productizing the accelerator/incubator programs using AI.
+- [CoFounder](https://co-founder.ai?utm_source=langchain&utm_medium=gallary&utm_campaign=alpha): The First AI Co-Founder for Your Start-up 🙌.
 - [DAIMON](https://www.mydaemon.ai/)
 
 ## Alternatives
