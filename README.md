@@ -70,10 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Service](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
 - [Lanarky](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
 - [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
-- [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare
-- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
-- [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
-- [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
+- [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
 
 ### Agents
 
@@ -95,6 +92,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
 - [Codespaces Template](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
 - [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
+
+### Platforms
+
+- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
+- [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
+- [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
 
 ## Open Source Projects
 
