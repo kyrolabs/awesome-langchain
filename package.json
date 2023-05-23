@@ -1,0 +1,14 @@
+{
+  "name": "awesome-langchain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-lint": "^0.18.2"
+  }
+}
