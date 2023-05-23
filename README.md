@@ -180,6 +180,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [How To Use LangChain with LLM Agent Monitoring To Fine-Tune Your LLM Apps](https://arize.com/blog-course/langchain-llm-agent-monitoring/)
 - [Build a Simple ChatGPT CLI with memory](https://getmetal.io/posts/07-tutorial-motorhead-cli)
 - [Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio](https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df)
+- [LangChain tutorial at PromptChap](https://promptchap.com)
 
 ## Proprietary
 
