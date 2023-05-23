@@ -82,7 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 - [BabyAGI UI](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
-- [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project
+- [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [SuperAgent](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 
 ### Templates
@@ -103,7 +103,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Knowledge Management
 
-- [DocsGPT](https://github.com/arc53/docsgpt): GPT-powered chat for documentation search & assistance.
+- [DocsGPT](https://github.com/arc53/docsgpt): GPT-powered chat for documentation search & assistance. ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social)
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
 - [Quiver](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)
 - [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
@@ -134,10 +134,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ChatGPT Langchain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain): ChatGPT clone using langchain on Huggingface
 - [Chat Math Techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques): langchain chat with math techniques on Huggingface
 - [Notion QA](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
-- [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
-- [ChatPDF](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI
+- [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5 ![GitHub Repo stars](https://img.shields.io/github/stars/rituthombre/QNim?style=social)
+- [ChatPDF](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
 - [Chat with Scanned Documents](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
 - [snowChat ❄️](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
+- [DB GPT](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
+- [Psychic](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 
 ## Learn
 
