@@ -140,6 +140,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [snowChat ❄️](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
 - [DB GPT](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 - [Psychic](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
+- [langchain-examples](https://github.com/alphasecio/langchain-examples): A collection of apps (search, text/doc/news/URL summaries, observability) powered by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-examples?style=social)
+- [llama-index](https://github.com/alphasecio/llama-index): Q&A with your documents using Llama-Index and LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/llama-index?style=social)
 
 ## Learn
 
