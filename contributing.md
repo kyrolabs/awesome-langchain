@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-The Awesome Langchain curates content and projects using or supporting Langchain ecosystem. The contribution needs to be open source. The list is curated in a way that only the best content is listed. This means that not all content will be listed. The content that is listed should be of high quality and have a clear added value. The project needs to be active and online for at least 1 week.
+The Awesome Langchain curates content and projects using or supporting Langchain ecosystem. The contribution needs to be open source. The list is curated in a way that only the best content is listed. This means that not all content will be listed. The content that is listed should be of high quality and have a clear added value.
 
 We do not list content that is:
 
