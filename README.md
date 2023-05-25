@@ -6,7 +6,7 @@
 
 LangChain is an amazing framework to get LLM projects done in a matter of no time and the ecosystem is growing fast. Here is an attempt to keep track of the initiatives around LangChain.
 
-Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ## Table of Contents
 
@@ -188,12 +188,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Deploy a Voice-Based Chatbot with BentoML, LangChain, and Gradio](https://towardsdatascience.com/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df)
 - [LangChain tutorial at PromptChap](https://promptchap.com)
 - [Create a Code Interpreter Chatbot with Pyodide, LangChain, and OpenAI](https://dylancastillo.co/code-interpreter-chatbot-pyodide-langchain-openai/)
-
-## Proprietary
-
-- [Any Summary](https://www.anysummary.app/): Summarize any file with AI
-- [CoFounder](https://co-founder.ai?utm_source=langchain&utm_medium=gallary&utm_campaign=alpha): The First AI Co-Founder for Your Start-up 🙌.
-- [DAIMON](https://www.mydaemon.ai/)
 
 ## Alternatives
 
