@@ -25,7 +25,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Notebooks](#notebooks)
     - [Videos](#videos)
     - [Articles](#articles)
-  - [Proprietary](#proprietary)
   - [Alternatives](#alternatives)
   - [Complement to this list](#complement-to-this-list)
 
