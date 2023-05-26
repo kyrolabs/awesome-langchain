@@ -13,6 +13,8 @@ We do not list content that is:
 
 We do not aim to list all Langchain supported platforms already listed in the Langchain documention, but we may list articles and examples demonstrating their usage.
 
+When adding a new item, please place it at the bottom of the list.
+
 ## Adding something to awesome langchain
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
