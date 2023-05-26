@@ -25,6 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Notebooks](#notebooks)
     - [Videos](#videos)
     - [Articles](#articles)
+  - [Proprietary](#proprietary)
   - [Alternatives](#alternatives)
   - [Complement to this list](#complement-to-this-list)
 
@@ -112,6 +113,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Other / Chatbots
 
+- [DuetGPT](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
