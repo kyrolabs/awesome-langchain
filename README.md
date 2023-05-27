@@ -196,6 +196,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Create a Code Interpreter Chatbot with Pyodide, LangChain, and OpenAI](https://dylancastillo.co/code-interpreter-chatbot-pyodide-langchain-openai/)
 - [LangChain has added Cypher Search](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5)
 - [Langchain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
+- [Implementing GPT4All Locally with Python and Langchain](https://medium.datadriveninvestor.com/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af)
 
 ## Alternatives
 
