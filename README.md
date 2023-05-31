@@ -146,6 +146,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Psychic](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 - [Airtable-QnA](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+- [WingmanAI](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 
 ## Learn
 
