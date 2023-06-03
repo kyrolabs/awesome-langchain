@@ -148,6 +148,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Airtable-QnA](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 - [WingmanAI](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
+- [TutorGPT](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ## Learn
 
