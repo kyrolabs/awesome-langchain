@@ -73,6 +73,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chainlit](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
 - [Zep](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+- [Argilla](https://github.com/argilla-io/argilla): Data monitoring and curation for LLM and LangChain apps ![GitHub Repo stars](https://img.shields.io/github/stars/argilla-io/argilla?style=social)
 
 ### Agents
 
