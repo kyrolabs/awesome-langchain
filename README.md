@@ -154,7 +154,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Cheshire Cat](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
 - [Got Chaat Bot](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
 - [Dialoqbase](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
-- [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain/csv-ai?style=social)
+- [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files.
 - [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
 ## Learn
