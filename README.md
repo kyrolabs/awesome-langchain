@@ -94,6 +94,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Templates
 
+- [AI](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, fist class support for LanChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 - [create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
 - [LangChain.js LLM Template](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
