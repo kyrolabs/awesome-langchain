@@ -95,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Multi-Modal LangChain agents in Production](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): SuperAGI - A dev-first open source autonomous AI agent framework ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
+- [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 
 ### Templates
 
@@ -225,6 +226,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Implementing GPT4All Locally with Python and Langchain](https://medium.datadriveninvestor.com/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af)
 - [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
 - [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
+- [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 
 ## Alternatives
 
