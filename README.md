@@ -222,6 +222,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
 - [Implementing GPT4All Locally with Python and Langchain](https://medium.datadriveninvestor.com/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af)
 - [GPT your GDrive with LangChain](https://www.haihai.ai/gpt-gdrive/)
+- [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
 
 ## Alternatives
 
