@@ -261,6 +261,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 - [AI.JSX](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
+- [Outlines](https://github.com/normal-computing/outlines): Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
+- [AI Utils](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)
 
 ## Complement to this list
 
