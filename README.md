@@ -6,7 +6,7 @@ LangChain is an amazing framework to get LLM projects done in a matter of no tim
 
 ## We also have a weekly newsletter to share the updates from LangChain ecosystem (changelog, articles, videos, projects) **[subscribe to the newsletter here](https://awesomelangchain.substack.com/)**
 
-Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
+Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Table of Contents
 
