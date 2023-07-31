@@ -39,13 +39,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
 - [LangChainHub](https://github.com/hwchase17/langchain-hub): collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-hub?style=social)
 
+## Ports to other languages
+
+List of non-official ports of LangChain to other languages.
+
+- [Langchain Go](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+- [LangchainRb](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+- [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/BoxcarsAI/boxcars?style=social)
+- [LangTorch](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Knowly-ai/langtorch?style=social)
+- [LangChain4j](https://github.com/langchain4j/langchain4j): LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
+- [LangChainJSDotNet](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET ![GitHub Repo stars](https://img.shields.io/github/stars/iassafc/LangChainJSDotNet?style=social)
+
 ## Tools
 
 ### Low-code
 
+- [Flowise ](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
-- [Flowise - LangchainJS UI](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
-- [Databerry](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
+- [Chaindesk](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
 - [LangchainUI](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
 - [Yeager.ai](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
@@ -72,6 +83,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 - [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
 - [Chainlit](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
+- [Psychic](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 - [Zep](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
 - [Langchain Decorators](https://github.com/ju-bezdek/langchain-decorators): a layer on the top op LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
 - [FastAPI + Chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
@@ -132,6 +144,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Other / Chatbots
 
+- [DB GPT](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
 - [Chat Langchain](https://github.com/hwchase17/chat-langchain): locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)
@@ -160,8 +173,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ChatPDF](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
 - [Chat with Scanned Documents](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
 - [snowChat ❄️](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
-- [DB GPT](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
-- [Psychic](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 - [Airtable-QnA](https://github.com/ikram-shah/airtable-qna): 🌟 a question-answering tool for your Airtable content
 - [WingmanAI](https://github.com/e-johnstonn/wingmanAI): tool for interacting with real-time transcription of both system and microphone audio
 - [TutorGPT](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
@@ -231,7 +242,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [A Hands-on Journey to a working LangChain LLM Application](https://wyh.life/article/2023/07/02/llm-app-development)
 - [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://medium.com/towards-artificial-intelligence/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 
-## Alternatives
+## Other LLM Frameworks
 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
@@ -245,10 +256,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)
 - [Griptape](https://github.com/griptape-ai/griptape): Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)
 - [llm-chain](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
-- [BoxCars](https://github.com/BoxcarsAI/boxcars): Ruby gem, Building applications with composability using Boxcars with LLM's. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/BoxcarsAI/boxcars?style=social)
-- [LangTorch](https://github.com/Knowly-ai/langtorch): Building composable LLM applications with Java / JVM. Inspired by LangChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Knowly-ai/langtorch?style=social)
-- [Langchain Go](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
-- [LangchainRb](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 - [PromptFlow](https://github.com/InsuranceToolkits/promptflow): Create executable flowcharts that link LLMs (Large Language Models), Prompts, Python functions, and conditional logic together. ![GitHub Repo stars](https://img.shields.io/github/stars/InsuranceToolkits/promptflow?style=social)
 - [OpenLM](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)
 - [Dust](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
@@ -258,8 +265,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [TermGPT](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)
 - [ReLLM](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
 - [OpenDAN](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
-- [LangChain4j](https://github.com/langchain4j/langchain4j): LangChain for Java
-- [LangChainJSDotNet](https://github.com/iassafc/LangChainJSDotNet): Use the official LangChain.js library in .NET
 - [OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
 - [AI.JSX](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
