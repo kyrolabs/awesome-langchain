@@ -277,6 +277,7 @@ List of non-official ports of LangChain to other languages.
 - [TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeChat?style=social)
 - [Marvin](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)
 - [LMQL](https://github.com/eth-sri/lmql): A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)
+- [LLMFlow](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## Complement to this list
 
