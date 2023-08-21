@@ -129,6 +129,7 @@ List of non-official ports of LangChain to other languages.
 - [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
 - [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
 - [Mona](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
+- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Open Source Projects
 
