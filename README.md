@@ -129,7 +129,6 @@ List of non-official ports of LangChain to other languages.
 - [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
 - [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
 - [Mona](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
-- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Open Source Projects
 
@@ -193,6 +192,7 @@ List of non-official ports of LangChain to other languages.
 - [Twitter Agent](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social)
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 - [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
+- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Learn
 
