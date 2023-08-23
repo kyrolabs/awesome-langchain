@@ -192,7 +192,6 @@ List of non-official ports of LangChain to other languages.
 - [Twitter Agent](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/ahmedbesbes/twitter-agent?style=social)
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 - [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
-- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Learn
 
@@ -258,6 +257,7 @@ List of non-official ports of LangChain to other languages.
 - [AgentFlow](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 - [Outlines](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
 - [SimpleAIChat](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
+- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Complement to this list
 
