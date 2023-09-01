@@ -258,6 +258,7 @@ List of non-official ports of LangChain to other languages.
 - [Outlines](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)
 - [SimpleAIChat](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
 - [LLFn](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)
+- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data.
 
 ## Complement to this list
 
