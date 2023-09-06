@@ -193,7 +193,8 @@ List of non-official ports of LangChain to other languages.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
 - [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api): About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)
 - [Recommender](https://github.com/vishwasg217/recommender): Create captivating email marketing campaigns tailored to your business needs ![GitHub Repo stars](https://img.shields.io/github/stars/vishwasg217/recommender?style=social)
-
+- [Robby Chatbot](https://github.com/yvann-hub/Robby-chatbot) AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social)
+  
 ## Learn
 
 ### Notebooks
