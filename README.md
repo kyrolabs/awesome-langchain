@@ -265,6 +265,7 @@ List of non-official ports of LangChain to other languages.
 - [Lagent](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
 - [Embedbase](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
 - [Rivet](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)
+- [Promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 
 ## Complement to this list
 
