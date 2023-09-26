@@ -212,6 +212,7 @@ List of non-official ports of LangChain to other languages.
 - [LangChain <> Wolfram Alpha](https://colab.research.google.com/drive/1AAyEdTz-Z6ShKvewbt1ZHUICqak0MiwR?usp=sharing)
 - [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
 - [Large Language Models Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
+- [VectorDB Recipes](https://github.com/lancedb/vectordb-recipes) High quality resources & applications for LLMs, multi-modal models and VectorDBs ![GitHub Repo stars]
 
 ### Videos Playlists
 
