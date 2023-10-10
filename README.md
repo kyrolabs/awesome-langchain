@@ -198,6 +198,8 @@ List of non-official ports of LangChain to other languages.
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot) An autonomous HR agent that can answer user queries using tools ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 - [AgentVerse](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 - [Lobe Chat](https://github.com/lobehub/lobe-chat) An open-source, extensible (Function Calling), high-performance chatbot framework ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)
+- [Funcchain](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
+
 
 ## Learn
 
