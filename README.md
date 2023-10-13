@@ -277,6 +277,7 @@ List of non-official ports of LangChain to other languages.
 - [Magentic](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
 - [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 - [AgentVerse](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
+- [Flappy](https://github.com/flappy/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars]![](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
 
 ## Complement to this list
 
