@@ -275,6 +275,7 @@ List of non-official ports of LangChain to other languages.
 - [Magentic](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)
 - [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 - [MemGPT](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
+- [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 
 ## Complement to this list
 
