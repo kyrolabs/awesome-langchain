@@ -87,7 +87,7 @@ List of non-official ports of LangChain to other languages.
 - [Chainlit](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
 - [Psychic](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
 - [Zep](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
-- [Langchain Decorators](https://github.com/ju-bezdek/langchain-decorators): a layer on the top op LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
+- [Langchain Decorators](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
 - [FastAPI + Chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 - [AilingBot](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
 - [Llama2 Embedding Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
@@ -119,7 +119,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Templates
 
-- [AI](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, fist class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
+- [AI](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 - [create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
 - [LangChain.js LLM Template](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
