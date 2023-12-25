@@ -211,6 +211,10 @@ List of non-official ports of LangChain to other languages.
 
 ## Learn
 
+### Books
+
+- [Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT, and other LLMs](https://amzn.to/3GUlRng): a book about the basics of LangChain and LLM apps, and more advanced topics including recent research and everything relevant to production such as evaluation, monitoring, and deployment.
+
 ### Notebooks
 
 - [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
