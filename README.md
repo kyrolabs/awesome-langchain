@@ -300,6 +300,7 @@ List of non-official ports of LangChain to other languages.
 - [Casibase](https://github.com/casibase/casibase): Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc ![GitHub Repo stars](https://img.shields.io/github/stars/casibase/casibase?style=social)
 - [Fructose](https://github.com/bananaml/fructose): Fructose is a python package to create a dependable, strongly-typed interface around an LLM call. ![GitHub Repo stars](https://img.shields.io/github/stars/bananaml/fructose?style=social)
 - [R2R](https://github.com/SciPhi-AI/R2R): A framework for rapid development and deployment of production-ready RAG systems ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social)
+- [uAgents](https://github.com/fetchai/uAgents): A fast and lightweight framework for creating decentralized agents with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/fetchai/uAgents?style=social)
 
 ## Complement to this list
 
