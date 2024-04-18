@@ -209,6 +209,7 @@ List of non-official ports of LangChain to other languages.
 - [Funcchain](https://github.com/shroominic/funcchain): write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)
 - [PersonalityChatbot](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
+- [InkChatGPT](https://github.com/vinhnx/InkChatGPT): A Simple document Retrieval-augmented generation (RAG) Chat app ![GitHub Repo stars](https://img.shields.io/github/stars/vinhnx/InkChatGPT?style=social)
 
 ## Learn
 
