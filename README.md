@@ -309,6 +309,7 @@ List of non-official ports of LangChain to other languages.
 - [Maestro](https://github.com/Doriandarko/maestro): A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
 - [SWE Agent](https://github.com/princeton-nlp/swe-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)
+- [Gateway](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. ![GitHub Repo stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social)
 
 ## Complement to this list
 
