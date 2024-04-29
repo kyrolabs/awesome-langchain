@@ -11,7 +11,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-- [🦜🔗 Awesome LangChain  ](#-awesome-langchain--)
+- [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
   - [Ports to other languages](#ports-to-other-languages)
@@ -315,6 +315,7 @@ List of non-official ports of LangChain to other languages.
 - [LLama Cpp Agent](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
 - [Groq Ruby](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
+- [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
 
 ## Complement to this list
 
