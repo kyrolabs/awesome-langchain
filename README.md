@@ -159,6 +159,7 @@ List of non-official ports of LangChain to other languages.
 - [examor](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)
 - [Repochat](https://github.com/pnkvalavala/repochat): Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)
 - [SolidGPT](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
+- [BlogIQ](https://github.com/langchain-tech/BlogIQ): Clone of writesonic.com & copy.ai - BlogIQ is an innovative app powered by OpenAI and Langchain, designed to streamline the content creation process for bloggers. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-tech/BlogIQ?style=social)
 
 ### Other / Chatbots
 
