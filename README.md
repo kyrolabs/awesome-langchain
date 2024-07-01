@@ -11,7 +11,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
-- [🦜🔗 Awesome LangChain  ](#-awesome-langchain--)
+- [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
   - [Ports to other languages](#ports-to-other-languages)
@@ -324,6 +324,9 @@ List of non-official ports of LangChain to other languages.
 - [Phidata](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social)
 - [Rigging](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
 - [Nerve](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
+- [Vision agent](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
+- [llama-agents](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
+- [Claude Engineer](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.
 
 ## Complement to this list
 
