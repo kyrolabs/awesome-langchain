@@ -138,12 +138,8 @@ List of non-official ports of LangChain to other languages.
 
 ### Platforms
 
-- [Modal](https://modal.com/docs/guide/ex/potus_speech_qanda): End-to-end stack for cloud/ML compute
-- [Metal](https://getmetal.io/): Metal is a managed service that allows you to build AI products without the hassle of managing infrastructure
-- [Graphsignal](https://graphsignal.com/): Observability for AI agents and LLM-powered applications. Trace, monitor and debug LangChain in production.
-- [Mona](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
-- [MindsDB](https://docs.mindsdb.com/integrations/ai-engines/langchain): Integrates with LangChain, enabling users to deploy, serve, and fine-tune models.
+
 
 ## Open Source Projects
 
