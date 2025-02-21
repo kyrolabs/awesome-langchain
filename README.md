@@ -56,7 +56,8 @@ List of non-official ports of LangChain to other languages.
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
-
+- [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
+  
 ### Services
 
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
@@ -79,7 +80,6 @@ List of non-official ports of LangChain to other languages.
 - [Llama-github](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
 - [LangFair](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
-- [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
 
 ### Agents
 
