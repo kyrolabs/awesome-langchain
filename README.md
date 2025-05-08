@@ -49,6 +49,9 @@ List of non-official ports of LangChain to other languages.
 - [LangchainRb](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 - [LangChain4j](https://github.com/langchain4j/langchain4j): LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
 - [LangChainDart](https://github.com/davidmigloz/langchain_dart): Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)
+- [Langchain-hs](https://github.com/tusharad/langchain-hs): Haskell implementation of Haskell. ![GitHub Repo stars](https://img.shields.io/github/stars/tusharad/langchain-hs?style=social)
+- [Langchain](https://github.com/brainlid/langchain): Elixir implementation of a LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/brainlid/langchain?style=social)
+- [Langchain-rust](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
 ## Tools
 
