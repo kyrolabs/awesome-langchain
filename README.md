@@ -133,6 +133,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Knowledge Management
 
+- [Cold Mail Generator](https://github.com/arpon-kapuria/cold-mail-generator): A RAG pipeline that scrapes context, leverages vector search and generates personalized emails based on applicant profile and professor research, with smart paper matching and human-like tone. ![GitHub Repo stars](https://img.shields.io/github/stars/arpon-kapuria/cold-mail-generator?style=social)
 - [Quiver](https://github.com/StanGirard/quiver): Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)
 - [DocsGPT](https://github.com/arc53/docsgpt): GPT-powered chat for documentation search & assistance. ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social)
 - [Chaindesk](https://github.com/gmpetrov/databerry): The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)
