@@ -268,6 +268,7 @@ List of non-official ports of LangChain to other languages.
 - [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
 - [AgentVerse](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 - [Flappy](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)
+- [ADK-Rust](https://github.com/zavora-ai/adk-rust): Production-ready AI agent development kit for Rust. Model-agnostic (Gemini, OpenAI, Anthropic, DeepSeek), with multiple agent types, MCP support, and telemetry. ![GitHub Repo stars](https://img.shields.io/github/stars/zavora-ai/adk-rust?style=social)
 - [MemGPT](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 - [Agentlabs](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
 - [axflow](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
