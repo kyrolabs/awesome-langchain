@@ -87,6 +87,7 @@ List of non-official ports of LangChain to other languages.
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 - [promptfoo](https://github.com/promptfoo/promptfoo): Test and evaluate LLM applications built with LangChain. Compare prompts, models, and RAG pipelines. Red team with multi-turn attacks and catch security vulnerabilities in CI/CD. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [Price Per Token](https://pricepertoken.com): Compare LLM API pricing to choose the most cost-effective provider for your LangChain apps
 
 
 ### Agents
