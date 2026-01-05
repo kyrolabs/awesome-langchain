@@ -315,7 +315,8 @@ List of non-official ports of LangChain to other languages.
 
 ## Complement to this list
 
-- [Open LLMs](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
+- [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production): Curated list of production-grade tools and best practices for building scalable RAG systems ![GitHub Repo stars](https://img.shields.io/github/stars/Yigtwxx/Awesome-RAG-Production?style=social)
+- [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
 - [LLaMA Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
-- [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
+- [Open LLMs](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
