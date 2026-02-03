@@ -92,6 +92,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Agents
 
+- [AgentFund](https://github.com/Riobot-Grind/agentfund-escrow): Crowdfunding platform for AI agents on Base chain. Milestone-based escrow contracts enabling agents to raise funds, deliver work, and get paid autonomously. ![GitHub Repo stars](https://img.shields.io/github/stars/Riobot-Grind/agentfund-escrow?style=social)
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
