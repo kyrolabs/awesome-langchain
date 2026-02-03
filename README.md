@@ -92,6 +92,8 @@ List of non-official ports of LangChain to other languages.
 
 ### Agents
 
+- [Agent OS](https://github.com/imran-siddique/agent-os): Kernel-based governance for LangChain agents with deterministic policy enforcement, audit logging, and compliance frameworks. ![GitHub Repo stars](https://img.shields.io/github/stars/imran-siddique/agent-os?style=social)
+
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
