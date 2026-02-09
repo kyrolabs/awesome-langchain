@@ -130,6 +130,7 @@ List of non-official ports of LangChain to other languages.
 ### Platforms
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+- [OpenSpawn](https://github.com/openspawn/openspawn): Self-hosted platform for managing AI agent operations with budgets, trust scoring, and task workflows ![GitHub Repo stars](https://img.shields.io/github/stars/openspawn/openspawn?style=social)
 
 
 ## Open Source Projects
