@@ -55,6 +55,8 @@ List of non-official ports of LangChain to other languages.
 
 ## Tools
 
+- [Aegis Memory](https://github.com/quantifylabs/aegis-memory): Open-source memory layer for multi-agent AI systems. Persistent memory with scoped access, memory voting, and LangChain/CrewAI integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/quantifylabs/aegis-memory?style=social)
+  
 ### Low-code
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
