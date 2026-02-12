@@ -321,3 +321,6 @@ List of non-official ports of LangChain to other languages.
 - [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
 
 - [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
