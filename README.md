@@ -130,6 +130,7 @@ List of non-official ports of LangChain to other languages.
 ### Platforms
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+- [Taskade](https://taskade.com): AI-native workspace platform with custom AI agents, workflow automation, [MCP server](https://github.com/taskade/mcp) integration, and real-time collaboration. Build apps from prompts, deploy autonomous agents with memory and knowledge bases. [Developer API](https://developers.taskade.com). ![GitHub Repo stars](https://img.shields.io/github/stars/taskade/taskade?style=social)
 
 
 ## Open Source Projects
