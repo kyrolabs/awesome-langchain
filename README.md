@@ -60,7 +60,7 @@ List of non-official ports of LangChain to other languages.
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 - [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
-  
+
 ### Services
 
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
@@ -88,7 +88,7 @@ List of non-official ports of LangChain to other languages.
 - [promptfoo](https://github.com/promptfoo/promptfoo): Test and evaluate LLM applications built with LangChain. Compare prompts, models, and RAG pipelines. Red team with multi-turn attacks and catch security vulnerabilities in CI/CD. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [far-search-tool](https://github.com/blueskylineassets/far-search-tool): LangChain tool for semantic search over Federal Acquisition Regulations (FAR). Enables AI agents to query U.S. government contracting rules and compliance requirements. ![GitHub Repo stars](https://img.shields.io/github/stars/blueskylineassets/far-search-tool?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
-
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute): Unified AI Gateway providing a single API for 250+ LLMs, with built-in load balancing, model failover, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)
 
 ### Agents
 
@@ -115,7 +115,6 @@ List of non-official ports of LangChain to other languages.
 - [BlockAGI](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 
-
 ### Templates
 
 - [AI](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
@@ -130,7 +129,6 @@ List of non-official ports of LangChain to other languages.
 ### Platforms
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
-
 
 ## Open Source Projects
 
@@ -212,7 +210,6 @@ List of non-official ports of LangChain to other languages.
 - [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
 - [Large Language Models Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 - [Learn LangChain (JS)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
-
 
 ### Videos Playlists
 
