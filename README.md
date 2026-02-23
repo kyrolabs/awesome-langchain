@@ -88,6 +88,7 @@ List of non-official ports of LangChain to other languages.
 - [promptfoo](https://github.com/promptfoo/promptfoo): Test and evaluate LLM applications built with LangChain. Compare prompts, models, and RAG pipelines. Red team with multi-turn attacks and catch security vulnerabilities in CI/CD. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [far-search-tool](https://github.com/blueskylineassets/far-search-tool): LangChain tool for semantic search over Federal Acquisition Regulations (FAR). Enables AI agents to query U.S. government contracting rules and compliance requirements. ![GitHub Repo stars](https://img.shields.io/github/stars/blueskylineassets/far-search-tool?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [ODEI](https://api.odei.ai): Constitutional world model for AI agents — persistent Neo4j knowledge graph (91 nodes, 6 domains), 7-layer AI safety guardrails, and MCP server integration for LangChain agents. ![GitHub Repo stars](https://img.shields.io/github/stars/odei-ai/web?style=social)
 
 
 ### Agents
