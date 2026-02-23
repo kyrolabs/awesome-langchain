@@ -54,6 +54,7 @@ List of non-official ports of LangChain to other languages.
 - [Langchain-rust](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
 ## Tools
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Persistent Neo4j knowledge graph (91 nodes, 6 semantic domains), 7-layer AI safety guardrails, smart contract audit. [GitHub](https://github.com/odei-ai/web)
 
 ### Low-code
 
