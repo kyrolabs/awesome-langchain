@@ -91,6 +91,7 @@ List of non-official ports of LangChain to other languages.
 
 
 ### Agents
+- [GitHub Trending Analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer): Automated fetching and categorization of GitHub Trending projects across daily, weekly, and monthly spans.
 
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
