@@ -116,6 +116,8 @@ List of non-official ports of LangChain to other languages.
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 
 
+- [Agent OS](https://github.com/imran-siddique/agent-os): A governance kernel for AI agents providing policy enforcement, trust scoring, and circuit breakers. Includes LangGraph integration via [langgraph-trust](https://pypi.org/project/langgraph-trust/). ![GitHub Repo stars](https://img.shields.io/github/stars/imran-siddique/agent-os?style=social)
+
 ### Templates
 
 - [AI](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
