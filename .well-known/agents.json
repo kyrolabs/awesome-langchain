@@ -1,0 +1,2227 @@
+{
+  "schema": "agentlookup-v1",
+  "registry": "https://agentlookup.dev",
+  "agents": [
+    {
+      "name": "LangChain",
+      "endpoint": "https://github.com/hwchase17/langchain",
+      "description": "the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)",
+      "capabilities": [
+        "llm-integration"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangChain.js",
+      "endpoint": "https://github.com/hwchase17/langchainjs",
+      "description": "the js brother ✨ ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)",
+      "capabilities": [
+        "llm-integration"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "endpoint": "https://docs.langchain.com/docs/",
+      "description": "Langchain concepts doc",
+      "capabilities": [
+        "llm-integration",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Twitter account",
+      "endpoint": "https://twitter.com/LangChainAI",
+      "description": "follow to get fresh updates",
+      "capabilities": [
+        "llm-integration"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Blog",
+      "endpoint": "https://blog.langchain.dev/",
+      "description": "The Official Langchain blog",
+      "capabilities": [
+        "llm-integration"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangServe",
+      "endpoint": "https://github.com/langchain-ai/langserve",
+      "description": "LangServe helps developers deploy LangChain runnables and chains as a REST API. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social)",
+      "capabilities": [
+        "llm-integration",
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Go",
+      "endpoint": "https://github.com/tmc/langchaingo",
+      "description": "Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangchainRb",
+      "endpoint": "https://github.com/andreibondarev/langchainrb",
+      "description": "Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangChain4j",
+      "endpoint": "https://github.com/langchain4j/langchain4j",
+      "description": "LangChain for Java ![GitHub Repo stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangChainDart",
+      "endpoint": "https://github.com/davidmigloz/langchain_dart",
+      "description": "Build powerful LLM-based Dart/Flutter applications. ![GitHub Repo stars](https://img.shields.io/github/stars/davidmigloz/langchain_dart?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain-hs",
+      "endpoint": "https://github.com/tusharad/langchain-hs",
+      "description": "Haskell implementation of Haskell. ![GitHub Repo stars](https://img.shields.io/github/stars/tusharad/langchain-hs?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain",
+      "endpoint": "https://github.com/brainlid/langchain",
+      "description": "Elixir implementation of a LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/brainlid/langchain?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain-rust",
+      "endpoint": "https://github.com/Abraxas-365/langchain-rust",
+      "description": "LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Flowise",
+      "endpoint": "https://github.com/FlowiseAI/Flowise",
+      "description": "Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)",
+      "capabilities": [
+        "code-generation",
+        "code-review"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langflow",
+      "endpoint": "https://github.com/logspace-ai/langflow",
+      "description": "LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)",
+      "capabilities": [
+        "code-generation",
+        "code-review"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Flock",
+      "endpoint": "https://github.com/Onelevenvy/flock",
+      "description": "Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)",
+      "capabilities": [
+        "code-generation",
+        "code-review"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPTCache",
+      "endpoint": "https://github.com/zilliztech/GPTCache",
+      "description": "A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Gorilla",
+      "endpoint": "https://github.com/ShishirPatil/gorilla",
+      "description": "An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LlamaHub",
+      "endpoint": "https://github.com/emptycrown/llama-hub",
+      "description": "a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Auto-evaluator",
+      "endpoint": "https://github.com/PineappleExpress808/auto-evaluator",
+      "description": "a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain visualizer",
+      "endpoint": "https://github.com/amosjyng/langchain-visualizer",
+      "description": "visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLM Strategy",
+      "endpoint": "https://github.com/BlackHC/llm-strategy",
+      "description": "implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "datasetGPT",
+      "endpoint": "https://github.com/radi-cho/datasetGPT",
+      "description": "A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Auto Evaluator",
+      "endpoint": "https://github.com/langchain-ai/auto-evaluator",
+      "description": "Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Jina",
+      "endpoint": "https://github.com/jina-ai/langchain-serve",
+      "description": "Langchain Apps on Production with Jina ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/langchain-serve?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Dify",
+      "endpoint": "https://github.com/langgenius/dify",
+      "description": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chainlit",
+      "endpoint": "https://github.com/Chainlit/chainlit",
+      "description": "Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Decorators",
+      "endpoint": "https://github.com/ju-bezdek/langchain-decorators",
+      "description": "a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AilingBot",
+      "endpoint": "https://github.com/ericzhang-cn/ailingbot",
+      "description": "Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.",
+      "capabilities": [
+        "slack-integration"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Llama2 Embedding Server",
+      "endpoint": "https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service",
+      "description": "Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatAbstractions",
+      "endpoint": "https://github.com/andrewnguonly/ChatAbstractions",
+      "description": "LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MindSQL",
+      "endpoint": "https://github.com/Mindinventory/MindSQL",
+      "description": "A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)",
+      "capabilities": [
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Llama-github",
+      "endpoint": "https://github.com/JetXu-LLM/llama-github",
+      "description": "Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CopilotKit",
+      "endpoint": "https://github.com/CopilotKit/CopilotKit",
+      "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangFair",
+      "endpoint": "https://github.com/cvs-health/langfair",
+      "description": "LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangWatch",
+      "endpoint": "https://github.com/langwatch/langwatch",
+      "description": "An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Agentic Radar",
+      "endpoint": "https://github.com/splx-ai/agentic-radar",
+      "description": "Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "UQLM",
+      "endpoint": "https://github.com/cvs-health/uqlm",
+      "description": "UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "promptfoo",
+      "endpoint": "https://github.com/promptfoo/promptfoo",
+      "description": "Test and evaluate LLM applications built with LangChain. Compare prompts, models, and RAG pipelines. Red team with multi-turn attacks and catch security vulnerabilities in CI/CD. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "far-search-tool",
+      "endpoint": "https://github.com/blueskylineassets/far-search-tool",
+      "description": "LangChain tool for semantic search over Federal Acquisition Regulations (FAR). Enables AI agents to query U.S. government contracting rules and compliance requirements. ![GitHub Repo stars](https://img.shields.io/github/stars/blueskylineassets/far-search-tool?style=social)",
+      "capabilities": [
+        "web-search"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Tenuo",
+      "endpoint": "https://github.com/tenuo-ai/tenuo",
+      "description": "Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Veritensor",
+      "endpoint": "https://github.com/arsbr/Veritensor",
+      "description": "Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)",
+      "capabilities": [
+        "data-analysis",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Private GPT",
+      "endpoint": "https://github.com/imartinez/privateGPT",
+      "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)",
+      "capabilities": [
+        "data-analysis",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CollosalAI Chat",
+      "endpoint": "https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat",
+      "description": "implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CrewAI",
+      "endpoint": "https://github.com/joaomdmoura/crewai",
+      "description": "Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentGPT",
+      "endpoint": "https://github.com/reworkd/AgentGPT",
+      "description": "AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Local GPT",
+      "endpoint": "https://github.com/PromtEngineer/localGPT",
+      "description": "Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Researcher",
+      "endpoint": "https://github.com/assafelovic/gpt-researcher",
+      "description": "GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ThinkGPT",
+      "endpoint": "https://github.com/alaeddine-13/thinkgpt",
+      "description": "Agent techniques to augment your LLM and push it beyond its limits ![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Camel-AutoGPT",
+      "endpoint": "https://github.com/SamurAIGPT/Camel-AutoGPT",
+      "description": "role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "RasaGPT",
+      "endpoint": "https://github.com/paulpierre/RasaGPT",
+      "description": "RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SkyAGI",
+      "endpoint": "https://github.com/litanlitudan/skyagi",
+      "description": "Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "PyCodeAGI",
+      "endpoint": "https://github.com/chakkaradeep/pyCodeAGI",
+      "description": "A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyAGI UI",
+      "endpoint": "https://github.com/miurla/babyagi-ui",
+      "description": "Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SuperAgent",
+      "endpoint": "https://github.com/homanp/superagent",
+      "description": "Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Voyager",
+      "endpoint": "https://github.com/MineDojo/Voyager",
+      "description": "An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ix",
+      "endpoint": "https://github.com/kreneskyp/ix",
+      "description": "Autonomous GPT-4 agent platform ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DuetGPT",
+      "endpoint": "https://github.com/kristoferlund/duet-gpt",
+      "description": "A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Multi-Modal LangChain agents in Production",
+      "endpoint": "https://github.com/steamship-packages/langchain-agent-production-starter",
+      "description": "Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DemoGPT",
+      "endpoint": "https://github.com/melih-unsal/DemoGPT",
+      "description": "DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SuperAGI",
+      "endpoint": "https://github.com/TransformerOptimus/SuperAGI",
+      "description": "SuperAGI - A dev-first open source autonomous AI agent framework ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Autonomous HR Chatbot",
+      "endpoint": "https://github.com/stepanogil/autonomous-hr-chatbot",
+      "description": "An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BlockAGI",
+      "endpoint": "https://github.com/blockpipe/blockagi",
+      "description": "BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "waggledance.ai",
+      "endpoint": "https://github.com/agi-merge/waggle-dance",
+      "description": "An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI",
+      "endpoint": "https://github.com/vercel-labs/ai",
+      "description": "Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "create-t3-turbo-ai",
+      "endpoint": "https://github.com/zckly/create-t3-turbo-ai",
+      "description": "t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangChain.js LLM Template",
+      "endpoint": "https://github.com/Conner1115/LangChain.js-LLM-Template",
+      "description": "LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Streamlit Template",
+      "endpoint": "https://github.com/hwchase17/langchain-streamlit-template",
+      "description": "template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Codespaces Template",
+      "endpoint": "https://github.com/lostintangent/codespaces-langchain",
+      "description": "a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Gradio Template",
+      "endpoint": "https://github.com/hwchase17/langchain-gradio-template",
+      "description": "template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI Getting Started",
+      "endpoint": "https://github.com/a16z-infra/ai-getting-started",
+      "description": "A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)",
+      "capabilities": [
+        "deployment",
+        "image-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Embedchain",
+      "endpoint": "https://github.com/embedchain/embedchain",
+      "description": "Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Openllmetry",
+      "endpoint": "https://github.com/traceloop/openllmetry",
+      "description": "Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Quiver",
+      "endpoint": "https://github.com/StanGirard/quiver",
+      "description": "Dump your brain into your GenerativeAI Vault ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quiver?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DocsGPT",
+      "endpoint": "https://github.com/arc53/docsgpt",
+      "description": "GPT-powered chat for documentation search & assistance. ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social)",
+      "capabilities": [
+        "web-search",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chaindesk",
+      "endpoint": "https://github.com/gmpetrov/databerry",
+      "description": "The no-code platform for semantic search and documents retrieval ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)",
+      "capabilities": [
+        "web-search",
+        "code-generation",
+        "data-analysis",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Knowledge GPT",
+      "endpoint": "https://github.com/mmz-001/knowledge_gpt",
+      "description": "Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Knowledge",
+      "endpoint": "https://github.com/KnowledgeCanvas/knowledge",
+      "description": "Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)",
+      "capabilities": [
+        "web-search",
+        "file-management",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Anything LLM",
+      "endpoint": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DocNavigator",
+      "endpoint": "https://github.com/vgulerianb/DocNavigator",
+      "description": "AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatFiles",
+      "endpoint": "https://github.com/guangzhengli/ChatFiles",
+      "description": "Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DataChad",
+      "endpoint": "https://github.com/gustavz/DataChad",
+      "description": "A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All. ![GitHub Repo stars](https://img.shields.io/github/stars/gustavz/DataChad?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Second Brain AI Agent",
+      "endpoint": "https://github.com/flepied/second-brain-agent",
+      "description": "A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "examor",
+      "endpoint": "https://github.com/codeacme17/examor",
+      "description": "A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. ![GitHub Repo stars](https://img.shields.io/github/stars/codeacme17/examor?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Repochat",
+      "endpoint": "https://github.com/pnkvalavala/repochat",
+      "description": "Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SolidGPT",
+      "endpoint": "https://github.com/AI-Citizen/SolidGPT",
+      "description": "Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Minima",
+      "endpoint": "https://github.com/dmayboroda/minima",
+      "description": "Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DB GPT",
+      "endpoint": "https://github.com/csunny/DB-GPT",
+      "description": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AudioGPT",
+      "endpoint": "https://github.com/AIGC-Audio/AudioGPT",
+      "description": "Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Paper QA",
+      "endpoint": "https://github.com/whitead/paper-qa",
+      "description": "LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chat Langchain",
+      "endpoint": "https://github.com/hwchase17/chat-langchain",
+      "description": "locally hosted chatbot specifically focused on question answering over the LangChain documentation ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/chat-langchain?style=social)",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Chat",
+      "endpoint": "https://github.com/zahidkhawaja/langchain-chat-nextjs",
+      "description": "another Next.js frontend for LangChain Chat. ![GitHub Repo stars](https://img.shields.io/github/stars/zahidkhawaja/langchain-chat-nextjs?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Book GPT",
+      "endpoint": "https://github.com/fraserxu/book-gpt",
+      "description": "drop a book, start asking question. ![GitHub Repo stars](https://img.shields.io/github/stars/fraserxu/book-gpt?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Doc Search",
+      "endpoint": "https://github.com/namuan/dr-doc-search",
+      "description": "converse with book - Built with GPT-3 ![GitHub Repo stars](https://img.shields.io/github/stars/namuan/dr-doc-search?style=social)",
+      "capabilities": [
+        "web-search",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Fact Checker",
+      "endpoint": "https://github.com/jagilley/fact-checker",
+      "description": "fact-checking LLM outputs with langchain ![GitHub Repo stars](https://img.shields.io/github/stars/jagilley/fact-checker?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MM ReAct",
+      "endpoint": "https://github.com/microsoft/MM-REACT",
+      "description": "Multi Modal ReAct Design",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "QABot",
+      "endpoint": "https://github.com/hardbyte/qabot",
+      "description": "Query local or remote files or databases with natural language queries powered by langchain and openai ![GitHub Repo stars](https://img.shields.io/github/stars/hardbyte/qabot?style=social)",
+      "capabilities": [
+        "data-analysis",
+        "file-management",
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "FlowGPT",
+      "endpoint": "https://github.com/nilooy/flowgpt",
+      "description": "Generate diagram with AI ![GitHub Repo stars](https://img.shields.io/github/stars/nilooy/flowgpt?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "langchain-text-summarizer",
+      "endpoint": "https://github.com/alphasecio/langchain-text-summarizer",
+      "description": "A sample streamlit application summarizing text using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/alphasecio/langchain-text-summarizer?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Chat Websocket",
+      "endpoint": "https://github.com/pors/langchain-chat-websockets",
+      "description": "About LangChain LLM chat with streaming response over websockets ![GitHub Repo stars](https://img.shields.io/github/stars/pors/langchain-chat-websockets?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "websocket"
+      ]
+    },
+    {
+      "name": "langchain_yt_tools",
+      "endpoint": "https://github.com/venuv/langchain_yt_tools",
+      "description": "Langchain tools to search/extract/transcribe text transcripts of Youtube videos ![GitHub Repo stars](https://img.shields.io/github/stars/venuv/langchain_yt_tools?style=social)",
+      "capabilities": [
+        "web-search"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SmartPilot",
+      "endpoint": "https://github.com/jaredkirby/SmartPilot",
+      "description": "A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question ![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ThoughtSource⚡",
+      "endpoint": "https://github.com/OpenBioLink/ThoughtSource",
+      "description": "A framework for the science of machine thinking ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBioLink/ThoughtSource?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatGPT Langchain",
+      "endpoint": "https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain",
+      "description": "ChatGPT clone using langchain on Huggingface",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chat Math Techniques",
+      "endpoint": "https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques",
+      "description": "langchain chat with math techniques on Huggingface",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Notion QA",
+      "endpoint": "https://github.com/hwchase17/notion-qa",
+      "description": "Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "QNimGPT",
+      "endpoint": "https://huggingface.co/spaces/rituthombre/QNim",
+      "description": "Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatPDF",
+      "endpoint": "https://github.com/akshata29/chatpdf",
+      "description": "ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)",
+      "capabilities": [
+        "data-analysis",
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chat with Scanned Documents",
+      "endpoint": "https://github.com/tony-xlh/Chat-with-Scanned-Documents",
+      "description": "A demo chatting with documents scanned with Dynamic Web TWAIN.",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "snowChat ❄️",
+      "endpoint": "https://github.com/kaarthik108/snowChat",
+      "description": "Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)",
+      "capabilities": [
+        "data-analysis",
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TutorGPT",
+      "endpoint": "https://github.com/plastic-labs/tutor-gpt",
+      "description": "Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cheshire Cat",
+      "endpoint": "https://github.com/cheshire-cat-ai/core",
+      "description": "Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Dialoqbase",
+      "endpoint": "https://github.com/n4ze3m/dialoqbase",
+      "description": "web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CSV-AI 🧠",
+      "endpoint": "https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html",
+      "description": "CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files.",
+      "capabilities": [
+        "file-management"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MindGeniusAI",
+      "endpoint": "https://github.com/xianjianlf2/MindGeniusAI",
+      "description": "Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Robby-Chatbot",
+      "endpoint": "https://github.com/yvann-hub/Robby-chatbot",
+      "description": "AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.",
+      "capabilities": [
+        "file-management"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI Chatbot",
+      "endpoint": "https://github.com/vercel-labs/ai-chatbot",
+      "description": "A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Instrukt",
+      "endpoint": "https://github.com/blob42/Instrukt",
+      "description": "A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenChat",
+      "endpoint": "https://github.com/openchatai/OpenChat/",
+      "description": "LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Migrate",
+      "endpoint": "https://github.com/0xpayne/gpt-migrate",
+      "description": "Easily migrate your codebase from one framework or language to another.",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Code Interpreter API",
+      "endpoint": "https://github.com/shroominic/codeinterpreter-api",
+      "description": "About Open source implementation of the ChatGPT Code Interpreter ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Funcchain",
+      "endpoint": "https://github.com/shroominic/funcchain",
+      "description": "write prompts, pythonic ![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/funcchain?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "PersonalityChatbot",
+      "endpoint": "https://github.com/btrcm00/chatbot-with-langchain",
+      "description": "Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "XAgent",
+      "endpoint": "https://github.com/OpenBMB/XAgent",
+      "description": "An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MemFree",
+      "endpoint": "https://github.com/memfreeme/memfree",
+      "description": "Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)",
+      "capabilities": [
+        "web-search",
+        "deployment",
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Tutorials",
+      "endpoint": "https://github.com/gkamradt/langchain-tutorials",
+      "description": "overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangChain Chinese Getting Started Guide",
+      "endpoint": "https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide",
+      "description": "Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Flan5 LLM",
+      "endpoint": "https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing",
+      "description": "PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangChain Handbook",
+      "endpoint": "https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook",
+      "description": "Pinecone / James Briggs' LangChain handbook",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Query the YouTube video transcripts",
+      "endpoint": "https://colab.research.google.com/drive/1sKSTjt9cPstl_WMZ86JsgEqFG-aSAwkn?usp=sharing",
+      "description": "Query the YouTube video transcripts, returning timestamps as sources to legitimize the answers",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "llm-lobbyist",
+      "endpoint": "https://github.com/JohnNay/llm-lobbyist",
+      "description": "Large Language Models as Corporate Lobbyists",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain Semantic Search",
+      "endpoint": "https://github.com/venuv/langchain_semantic_search",
+      "description": "Search and indexing your own Google Drive Files using GPT3, LangChain, and Python",
+      "capabilities": [
+        "web-search",
+        "file-management"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "llm-grovers-search-party",
+      "endpoint": "https://github.com/JavaFXpert/llm-grovers-search-party",
+      "description": "Leveraging Qiskit, OpenAI and LangChain to demonstrate Grover's algorithm",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Learn LangChain (JS)",
+      "endpoint": "https://github.com/iparesh18/Learn-LangChain",
+      "description": "A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.",
+      "capabilities": [
+        "web-scraping"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Transformers Agents",
+      "endpoint": "https://huggingface.co/docs/transformers/transformers_agents",
+      "description": "Provides a natural language API on top of transformers",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LlamaIndex",
+      "endpoint": "https://github.com/jerryjliu/llama_index",
+      "description": "provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Botpress",
+      "endpoint": "https://github.com/botpress/botpress",
+      "description": "The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Haystack",
+      "endpoint": "https://github.com/deepset-ai/haystack",
+      "description": "NLP framework to interact with your data using Transformer models and LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Semantic Kernel",
+      "endpoint": "https://github.com/microsoft/semantic-kernel",
+      "description": "Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Promptify",
+      "endpoint": "https://github.com/promptslab/Promptify",
+      "description": "Prompt Engineering | Use GPT or other prompt based models to get structured output. ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "PromptSource",
+      "endpoint": "https://github.com/bigscience-workshop/promptsource",
+      "description": "About Toolkit for creating, sharing and using natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Agent-LLM",
+      "endpoint": "https://github.com/Josh-XT/Agent-LLM",
+      "description": "An Artificial Intelligence Automation Platform. ![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLM Agents",
+      "endpoint": "https://github.com/mpaepper/llm_agents",
+      "description": "Build agents which are controlled by LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/mpaepper/llm_agents?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MiniChain",
+      "endpoint": "https://github.com/srush/MiniChain",
+      "description": "A tiny library for coding with large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/srush/MiniChain?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Griptape",
+      "endpoint": "https://github.com/griptape-ai/griptape",
+      "description": "Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. ![GitHub Repo stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "llm-chain",
+      "endpoint": "https://github.com/sobelio/llm-chain",
+      "description": "is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenLM",
+      "endpoint": "https://github.com/r2d4/openlm",
+      "description": "a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript](https://github.com/r2d4/llm.ts) ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/openlm?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Dust",
+      "endpoint": "https://github.com/dust-tt/dust",
+      "description": "Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "e2b",
+      "endpoint": "https://github.com/e2b-dev/e2b",
+      "description": "Open-source platform for building & deploying virtual developers’ agents",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SuperAGI",
+      "endpoint": "https://github.com/TransformerOptimus/SuperAGI",
+      "description": "A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SmartGPT",
+      "endpoint": "https://github.com/Cormanz/smartgpt",
+      "description": "A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TermGPT",
+      "endpoint": "https://github.com/Sentdex/TermGPT",
+      "description": "Giving LLMs like GPT-4 the ability to plan and execute terminal commands ![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ReLLM",
+      "endpoint": "https://github.com/r2d4/rellm",
+      "description": "Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenDAN",
+      "endpoint": "https://github.com/fiatrete/OpenDAN-Personal-AI-OS",
+      "description": "open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenLLM",
+      "endpoint": "https://github.com/bentoml/OpenLLM",
+      "description": "An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)",
+      "capabilities": [
+        "deployment",
+        "monitoring"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "FlagAI",
+      "endpoint": "https://github.com/FlagAI-Open/FlagAI",
+      "description": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI.JSX",
+      "endpoint": "https://github.com/fixie-ai/ai-jsx",
+      "description": "The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Outlines",
+      "endpoint": "https://github.com/normal-computing/outlines",
+      "description": "Generative Model Programming (Python) ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI Utils",
+      "endpoint": "https://github.com/lgrammel/ai-utils.js",
+      "description": "TypeScript-first library for building AI apps, chatbots, and agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/ai-utils.js?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MetaGPT",
+      "endpoint": "https://github.com/geekan/MetaGPT",
+      "description": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Hyv",
+      "endpoint": "https://github.com/failfa-st/hyv",
+      "description": "Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/failfa-st/hyv?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Autochain",
+      "endpoint": "https://github.com/Forethought-Technologies/AutoChain",
+      "description": "Build lightweight, extensible, and testable LLM Agents with AutoChain. ![GitHub Repo stars](https://img.shields.io/github/stars/Forethought-Technologies/AutoChain?style=social)",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TypeChat",
+      "endpoint": "https://github.com/microsoft/TypeChat",
+      "description": "TypeChat is a library that makes it easy to build natural language interfaces using types. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeChat?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Marvin",
+      "endpoint": "https://github.com/PrefectHQ/marvin",
+      "description": "✨ Build AI interfaces that spark joy ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LMQL",
+      "endpoint": "https://github.com/eth-sri/lmql",
+      "description": "A programming language for large language models. ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLMFlow",
+      "endpoint": "https://github.com/stoyan-stoyanov/llmflows",
+      "description": "Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Ax",
+      "endpoint": "https://github.com/axilla-io/ax",
+      "description": "A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TextAI",
+      "endpoint": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai?style=social)",
+      "capabilities": [
+        "web-search",
+        "data-analysis",
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentFlow",
+      "endpoint": "https://github.com/simonmesmith/agentflow",
+      "description": "About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Outlines",
+      "endpoint": "https://github.com/normal-computing/outlines",
+      "description": "Fast and reliable neural text generation. ![GitHub Repo stars](https://img.shields.io/github/stars/normal-computing/outlines?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SimpleAIChat",
+      "endpoint": "https://github.com/minimaxir/simpleaichat",
+      "description": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLFn",
+      "endpoint": "https://github.com/orgexyz/LLFn",
+      "description": "A light-weight framework for creating applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/LLFn?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLMStack",
+      "endpoint": "https://github.com/trypromptly/LLMStack",
+      "description": "No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)",
+      "capabilities": [
+        "code-generation",
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Lagent",
+      "endpoint": "https://github.com/InternLM/lagent",
+      "description": "A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Embedbase",
+      "endpoint": "https://github.com/different-ai/embedbase",
+      "description": "The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Rivet",
+      "endpoint": "https://github.com/Ironclad/rivet",
+      "description": "An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. ![GitHub Repo stars](https://img.shields.io/github/stars/Ironclad/rivet?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Promptfoo",
+      "endpoint": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "RestGPT",
+      "endpoint": "https://github.com/Yifan-Song793/RestGPT",
+      "description": "An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangStream",
+      "endpoint": "https://github.com/LangStream/langstream",
+      "description": "Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. ![GitHub Repo stars](https://img.shields.io/github/stars/LangStream/langstream?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Magentic",
+      "endpoint": "https://github.com/jackmpcollins/magentic",
+      "description": "Seamlessly integrate LLMs as Python functions ![GitHub Repo stars](https://img.shields.io/github/stars/jackmpcollins/magentic?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Autogen",
+      "endpoint": "https://github.com/microsoft/autogen",
+      "description": "Enable Next-Gen Large Language Model Applications.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Flappy",
+      "endpoint": "https://github.com/pleisto/flappy",
+      "description": "Production-Ready LLM Agent SDK for Every Developer ![Github Repo stars](https://img.shields.io/github/stars/pleisto/flappy.svg?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MemGPT",
+      "endpoint": "https://github.com/cpacker/MemGPT",
+      "description": "Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Agentlabs",
+      "endpoint": "https://github.com/agentlabs-inc/agentlabs",
+      "description": "Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "axflow",
+      "endpoint": "https://github.com/axflow/axflow",
+      "description": "The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "bondai",
+      "endpoint": "https://github.com/krohling/bondai",
+      "description": "AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chidori",
+      "endpoint": "https://github.com/ThousandBirdsInc/chidori",
+      "description": "A reactive runtime for building durable AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langroid",
+      "endpoint": "https://github.com/langroid/langroid",
+      "description": "an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langstream",
+      "endpoint": "https://github.com/rogeriochaves/langstream",
+      "description": "Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Agency",
+      "endpoint": "https://github.com/neurocult/agency",
+      "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TaskWeaver",
+      "endpoint": "https://github.com/microsoft/TaskWeaver",
+      "description": "A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)",
+      "capabilities": [
+        "code-generation",
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MicroAgent",
+      "endpoint": "https://github.com/aymenfurter/microagents",
+      "description": "Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Casibase",
+      "endpoint": "https://github.com/casibase/casibase",
+      "description": "Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc ![GitHub Repo stars](https://img.shields.io/github/stars/casibase/casibase?style=social)",
+      "capabilities": [
+        "data-analysis",
+        "database",
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Fructose",
+      "endpoint": "https://github.com/bananaml/fructose",
+      "description": "Fructose is a python package to create a dependable, strongly-typed interface around an LLM call. ![GitHub Repo stars](https://img.shields.io/github/stars/bananaml/fructose?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "R2R",
+      "endpoint": "https://github.com/SciPhi-AI/R2R",
+      "description": "A framework for rapid development and deployment of production-ready RAG systems ![GitHub Repo stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social)",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "uAgents",
+      "endpoint": "https://github.com/fetchai/uAgents",
+      "description": "A fast and lightweight framework for creating decentralized agents with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/fetchai/uAgents?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Codel",
+      "endpoint": "https://github.com/semanser/codel",
+      "description": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. ![GitHub Repo stars](https://img.shields.io/github/stars/semanser/codel?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLocalSearch",
+      "endpoint": "https://github.com/nilsherzig/LLocalSearch",
+      "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)",
+      "capabilities": [
+        "web-search"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Plandex",
+      "endpoint": "https://github.com/plandex-ai/plandex",
+      "description": "An AI coding engine for complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Maestro",
+      "endpoint": "https://github.com/Doriandarko/maestro",
+      "description": "A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Pilot",
+      "endpoint": "https://github.com/Pythagora-io/gpt-pilot",
+      "description": "GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SWE Agent",
+      "endpoint": "https://github.com/princeton-nlp/swe-agent",
+      "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Gateway",
+      "endpoint": "https://github.com/Portkey-AI/gateway",
+      "description": "A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. ![GitHub Repo stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentRun",
+      "endpoint": "https://github.com/Jonathan-Adly/AgentRun",
+      "description": "The easiest, and fastest way to run AI-generated Python code safely ![GitHub Repo stars](https://img.shields.io/github/stars/Jonathan-Adly/AgentRun?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLama Cpp Agent",
+      "endpoint": "https://github.com/Maximilian-Winter/llama-cpp-agent",
+      "description": "The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "FinRobot",
+      "endpoint": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "description": "An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Groq Ruby",
+      "endpoint": "https://github.com/drnic/groq-ruby",
+      "description": "Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)",
+      "capabilities": [
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentScope",
+      "endpoint": "https://github.com/modelscope/agentscope",
+      "description": "Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Memary",
+      "endpoint": "https://github.com/kingjulio8238/memary",
+      "description": "Longterm Memory for Autonomous Agents. ![GitHub Repo stars](https://img.shields.io/github/stars/kingjulio8238/memary?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Llmware",
+      "endpoint": "https://github.com/llmware-ai/llmware",
+      "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. ![GitHub Repo stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Pipecat",
+      "endpoint": "https://github.com/pipecat-ai/pipecat",
+      "description": "Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Phidata",
+      "endpoint": "https://github.com/phidatahq/phidata",
+      "description": "Build AI Assistants with memory, knowledge and tools. ![GitHub Repo stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Rigging",
+      "endpoint": "https://github.com/dreadnode/rigging",
+      "description": "Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Vision agent",
+      "endpoint": "https://github.com/landing-ai/vision-agent",
+      "description": "Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "llama-agents",
+      "endpoint": "https://github.com/run-llama/llama-agents",
+      "description": "llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Claude Engineer",
+      "endpoint": "https://github.com/Doriandarko/claude-engineer",
+      "description": "Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI Scientist",
+      "endpoint": "https://github.com/SakanaAI/AI-Scientist",
+      "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DSPy",
+      "endpoint": "https://github.com/stanfordnlp/dspy",
+      "description": "The framework for programming—not prompting—foundation models ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Eino",
+      "endpoint": "https://github.com/cloudwego/eino",
+      "description": "Eino provides a Golang AI application development framework with various component integrations and the ability to orchestrate Chains and Graphs similar to LangChain and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/cloudwego/eino?style=social)",
+      "capabilities": [
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TensorZero",
+      "endpoint": "https://github.com/tensorzero/tensorzero",
+      "description": "An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. ![GitHub Repo stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Bifrost",
+      "endpoint": "https://github.com/maximhq/bifrost",
+      "description": "Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Mastra AI",
+      "endpoint": "https://github.com/mastra-ai/mastra",
+      "description": "a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Open LLMs",
+      "endpoint": "https://github.com/eugeneyan/open-llms",
+      "description": "A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Awesome LLM",
+      "endpoint": "https://github.com/Hannibal046/Awesome-LLM",
+      "description": "Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLaMA Cult and More",
+      "endpoint": "https://github.com/shm007g/LLaMA-Cult-and-More",
+      "description": "Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Awesome Language Agents",
+      "endpoint": "https://github.com/ysymyth/awesome-language-agents",
+      "description": "List of language agents based on paper \"Cognitive Architectures for Language Agents\" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    }
+  ]
+}
