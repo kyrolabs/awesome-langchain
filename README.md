@@ -55,6 +55,7 @@ List of non-official ports of LangChain to other languages.
 
 ## Tools
 
+- [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform providing managed Chromium instances for AI agents — supports Puppeteer, Playwright, and Claude/GPT computer use APIs with enterprise-grade stealth.
 ### Low-code
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
