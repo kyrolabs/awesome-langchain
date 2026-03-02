@@ -92,6 +92,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Agents
 
+- [anchorbrowser/AnchorBrowser-SDK-Typescript](https://github.com/anchorbrowser/AnchorBrowser-SDK-Typescript) - Cloud browser platform for AI agents. Connect via WebSocket/CDP (Puppeteer & Playwright), with built-in stealth, CAPTCHA solving, and proxy rotation.
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
