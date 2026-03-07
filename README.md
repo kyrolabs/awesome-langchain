@@ -89,6 +89,7 @@ List of non-official ports of LangChain to other languages.
 - [far-search-tool](https://github.com/blueskylineassets/far-search-tool): LangChain tool for semantic search over Federal Acquisition Regulations (FAR). Enables AI agents to query U.S. government contracting rules and compliance requirements. ![GitHub Repo stars](https://img.shields.io/github/stars/blueskylineassets/far-search-tool?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [Veritensor](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
+- [evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp) - MCP server that gives LangChain agents read/write access to Obsidian vault notes. Works as a tool for knowledge base operations like reading, creating, and searching documents. ![GitHub Repo stars](https://img.shields.io/github/stars/entire-vc/evc-team-relay-mcp?style=social)
 
 ### Agents
 
