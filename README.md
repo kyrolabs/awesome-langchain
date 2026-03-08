@@ -90,6 +90,8 @@ List of non-official ports of LangChain to other languages.
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [Veritensor](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
 
+- [clanker-wallet](https://github.com/almogdepaz/clanker-wallet) - TypeScript SDK for AI agents to send human-approved blockchain transactions. E2E encrypted, agent proposes, human signs. LangChain DynamicStructuredTool wrapper included. ![GitHub Repo stars](https://img.shields.io/github/stars/almogdepaz/clanker-wallet?style=social)
+
 ### Agents
 
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
