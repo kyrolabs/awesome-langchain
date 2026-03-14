@@ -89,6 +89,7 @@ List of non-official ports of LangChain to other languages.
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [Veritensor](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
 - [Mengram](https://github.com/alibaizhanov/mengram): Long-term memory for LangChain agents — semantic, episodic & procedural memory with Graph RAG. Includes MengramRetriever for RAG pipelines. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=social)
+- [LangGraph Patterns MCP](https://github.com/Rajathbharadwaj/langgraph-patterns-mcp): MCP server providing production LangGraph patterns and code snippets for Claude Desktop & Cursor. Includes ReAct agents, human-in-loop, multi-agent, and tool calling patterns. ![GitHub Repo stars](https://img.shields.io/github/stars/Rajathbharadwaj/langgraph-patterns-mcp?style=social)
 
 ### Agents
 
