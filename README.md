@@ -115,6 +115,7 @@ List of non-official ports of LangChain to other languages.
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 - [BlockAGI](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
+- [Network-AI](https://github.com/Jovancoding/Network-AI): Multi-agent orchestration layer with native LangChain adapter (including streaming). Adds race-condition-safe shared blackboard, per-agent token budgets, and permission gating on top of existing LangChain runnables. Supports 15 frameworks in the same swarm. ![GitHub Repo stars](https://img.shields.io/github/stars/Jovancoding/Network-AI?style=social)
 
 
 ### Templates
