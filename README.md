@@ -65,6 +65,7 @@ List of non-official ports of LangChain to other languages.
 
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+- [Arch Tools](https://github.com/Deesmo/Arch-AI-Tools): 58 API tools behind one key — web scraping, AI generation, crypto, voice, email. MCP native + x402 USDC payments. ![GitHub Repo stars](https://img.shields.io/github/stars/Deesmo/Arch-AI-Tools?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
 - [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
 - [Langchain visualizer](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)
