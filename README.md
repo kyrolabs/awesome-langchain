@@ -63,6 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [Arch Tools](https://archtools.dev): 61 production-ready AI tools (code analysis, web scraping, image gen, NLP, crypto, search) accessible via REST API and MCP protocol with x402 USDC micropayments. Free tier: 100 credits/month.
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
