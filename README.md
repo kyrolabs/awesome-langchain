@@ -90,6 +90,7 @@ List of non-official ports of LangChain to other languages.
 - [Veritensor](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
 - [Mengram](https://github.com/alibaizhanov/mengram): Long-term memory for LangChain agents — semantic, episodic & procedural memory with Graph RAG. Includes MengramRetriever for RAG pipelines. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=social)
 - [Ziran](https://github.com/taoq-ai/ziran): Open-source security testing framework for AI agents. Discovers dangerous tool chain compositions via graph analysis, detects execution-level side effects, and runs multi-phase trust exploitation campaigns. ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
+- [Arch Tools](https://archtools.dev): 61 production-ready AI tools (text, image, code, data, and more) accessible via REST API and MCP, with x402 micropayments and a free tier of 100 credits/month. ![GitHub Repo stars](https://img.shields.io/github/stars/Deesmo/Arch-AI-Tools?style=social)
 
 ### Agents
 
