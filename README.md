@@ -93,6 +93,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Agents
 
+- [A2ASearch](https://a2asearch.ai): Searchable directory of 4,800+ AI agents, MCP servers, CLI tools and agent skills. Free REST API + MCP server for Claude/Cursor. [![GitHub Repo stars](https://img.shields.io/github/stars/tadas-github/a2asearch?style=social)](https://github.com/tadas-github/a2asearch)
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
