@@ -131,6 +131,7 @@ List of non-official ports of LangChain to other languages.
 ### Platforms
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
+- [TraceVerde](https://github.com/Mandark-droid/genai_otel_instrument): OpenTelemetry auto-instrumentation for LLM/GenAI apps with zero-code setup, automatic cost tracking, and GPU metrics. Instruments LangChain, 19+ LLM providers, and 20+ MCP tools. ![GitHub Repo stars](https://img.shields.io/github/stars/Mandark-droid/genai_otel_instrument?style=social)
 
 
 ## Open Source Projects
