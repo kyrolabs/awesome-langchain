@@ -63,6 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [AKF](https://github.com/HMAKT99/AKF): The AI native file format — stamps LLM outputs with trust scores, source provenance, and compliance metadata. LangChain callback handler auto-stamps chain outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/HMAKT99/AKF?style=social)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
