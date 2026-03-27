@@ -92,6 +92,8 @@ List of non-official ports of LangChain to other languages.
 - [Ziran](https://github.com/taoq-ai/ziran): Open-source security testing framework for AI agents. Discovers dangerous tool chain compositions via graph analysis, detects execution-level side effects, and runs multi-phase trust exploitation campaigns. ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
 * [ai-evaluation](https://github.com/future-agi/ai-evaluation): Open-source SDK for evaluating LLM applications built with LangChain, with 50+ metrics, LLM-as-Judge, guardrail scanners, and AutoEval pipelines. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social)](https://github.com/future-agi/ai-evaluation)
 
+- [graceful-fail](https://selfheal.dev) — Self-healing API proxy tool for LangChain agents. Intercepts API errors and returns structured fix instructions. pip install 'graceful-fail[langchain]' ![PyPI](https://img.shields.io/pypi/v/graceful-fail)
+
 ### Agents
 
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
