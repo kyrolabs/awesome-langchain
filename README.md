@@ -91,6 +91,7 @@ List of non-official ports of LangChain to other languages.
 - [Mengram](https://github.com/alibaizhanov/mengram): Long-term memory for LangChain agents — semantic, episodic & procedural memory with Graph RAG. Includes MengramRetriever for RAG pipelines. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=social)
 - [Ziran](https://github.com/taoq-ai/ziran): Open-source security testing framework for AI agents. Discovers dangerous tool chain compositions via graph analysis, detects execution-level side effects, and runs multi-phase trust exploitation campaigns. ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
 * [ai-evaluation](https://github.com/future-agi/ai-evaluation): Open-source SDK for evaluating LLM applications built with LangChain, with 50+ metrics, LLM-as-Judge, guardrail scanners, and AutoEval pipelines. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social)](https://github.com/future-agi/ai-evaluation)
+- [langchain-veroq](https://github.com/Veroq-api/langchain-veroq): 40 LangChain tools for financial intelligence — verified market data, trading signals, sentiment analysis, and fact-checking with evidence chains. ![GitHub Repo stars](https://img.shields.io/github/stars/Veroq-api/langchain-veroq?style=social)
 
 ### Agents
 
