@@ -54,6 +54,7 @@ List of non-official ports of LangChain to other languages.
 - [Langchain-rust](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
 ## Tools
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 ### Low-code
 
