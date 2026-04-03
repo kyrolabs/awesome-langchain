@@ -146,6 +146,7 @@ List of non-official ports of LangChain to other languages.
 - [Repochat](https://github.com/pnkvalavala/repochat): Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation ![GitHub Repo stars](https://img.shields.io/github/stars/pnkvalavala/repochat?style=social)
 - [SolidGPT](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
 - [Minima](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
+- [SupraWall](https://github.com/wiserautomation/SupraWall) (⭐WIP): Open-source runtime security layer for LangChain agents. Intercepts tool calls before execution — policy enforcement, credential vault, budget caps, PII scrubbing, and EU AI Act audit trails in one line of code. https://supra-wall.com
 
 ### Other / Chatbots
 
