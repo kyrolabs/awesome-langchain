@@ -1,22 +1,25 @@
 # Contribution Guidelines
 
-The Awesome Langchain curates content and projects using or supporting Langchain ecosystem. The contribution needs to be open source. The list is curated in a way that only the best content is listed. This means that not all content will be listed. The content that is listed should be of high quality and have a clear added value.
+The Awesome Langchain curates content and projects using or supporting Langchain ecosystem. The contribution needs to be open source. The list is curated so that only the best content is included. This means that not all content will be listed. The listed content should be high-quality, demonstrate traction, be maintained, and provide clear added value.
 
 We do not list content that is:
 
-- brand new vibe coded repo without demonstrated traction.
-- not in English.
+- brand new repo without demonstrated traction.
 - not related to Langchain.
+- not in English.
+- not related to Agentic frameworks.
 - not maintained anymore.
 - not online anymore.
 - not open source.
 - not adding value to existing content.
-- 
+
 When adding a new item, please place it at the _bottom_ of the list.
 
 We do not aim to list all Langchain-supported platforms already listed in the Langchain documentation, but we may list articles and examples demonstrating their usage.
 
 Submit a PR, not an issue. Any PR that does not follow the guidelines will be automatically closed.
+
+Given the rise of agent submissions, those criteria are non-negotiable, managed and applied automatically. Criteria that most often trigger closing a PR without merging it: brand new repo with no history, brand new user, or wrong place in the list.
 
 ## Adding something to awesome langchain
 
