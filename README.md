@@ -149,6 +149,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Other / Chatbots
 
+- [LongTrainer](https://github.com/ENDEVSOLS/Long-Trainer): A production-ready RAG framework based on LangChain for building intelligent, multi-tenant chatbots with tool calling, memory, and streaming capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/ENDEVSOLS/Long-Trainer?style=social)
 - [DB GPT](https://github.com/csunny/DB-GPT): Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security ![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 - [Paper QA](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations ![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)
