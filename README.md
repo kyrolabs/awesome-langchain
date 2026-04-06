@@ -304,6 +304,7 @@ List of non-official ports of LangChain to other languages.
 - [TensorZero](https://github.com/tensorzero/tensorzero): An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. ![GitHub Repo stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Mastra AI](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Alternative to LangChain agent chains: 49 specialized Claude Code agents with built-in orchestration, task registry, and quality gates. No framework dependency.
 
 ## Complement to this list
 
