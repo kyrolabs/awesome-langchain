@@ -303,6 +303,7 @@ List of non-official ports of LangChain to other languages.
 - [Eino](https://github.com/cloudwego/eino): Eino provides a Golang AI application development framework with various component integrations and the ability to orchestrate Chains and Graphs similar to LangChain and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/cloudwego/eino?style=social)
 - [TensorZero](https://github.com/tensorzero/tensorzero): An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. ![GitHub Repo stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
+- [ClawRouters](https://www.clawrouters.com): AI model router with sub-10ms latency. Routes to 50+ models across 8 providers with smart cost/quality/latency optimization. Free BYOK tier.
 - [Mastra AI](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## Complement to this list
