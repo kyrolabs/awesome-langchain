@@ -63,7 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
-- [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
+-  [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
 - [Auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
@@ -84,10 +84,13 @@ List of non-official ports of LangChain to other languages.
 - [LangFair](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 - [LangWatch](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques !
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 
 ### Agents
 
+- [Exogram Agent Safety Analyzer](https://exogram.ai/tools/agent-safety-analyzer) - A live simulation tool demonstrating deterministic execution firewalls for LLM agents.
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
@@ -217,6 +220,7 @@ List of non-official ports of LangChain to other languages.
 
 ## Other LLM Frameworks
 
+- [GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
 - [Botpress](https://github.com/botpress/botpress): The building blocks for building chatbots ![GitHub Repo stars](https://img.shields.io/github/stars/botpress/botpress?style=social)
