@@ -26,6 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Other / Chatbots](#other--chatbots)
   - [Learn](#learn)
     - [Notebooks](#notebooks)
+    - [Articles](#articles)
     - [Videos Playlists](#videos-playlists)
   - [Other LLM Frameworks](#other-llm-frameworks)
   - [Complement to this list](#complement-to-this-list)
@@ -207,6 +208,10 @@ List of non-official ports of LangChain to other languages.
 - [Large Language Models Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 - [Learn LangChain (JS)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
 
+
+### Articles
+
+- [LangChain Job Market 2026](https://agentic-engineering-jobs.com/langchain-job-market-2026): Analysis of 591 agentic engineering listings — LangChain market share, salary tables, tech stacks, top employers, and hiring trends.
 
 ### Videos Playlists
 
