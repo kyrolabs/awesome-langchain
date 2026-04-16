@@ -85,7 +85,8 @@ List of non-official ports of LangChain to other languages.
 - [LangWatch](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
-
+- [NocturnusAI](https://github.com/Auctalis/nocturnusai): Deterministic reasoning engine for AI agent context compression — optimizes token usage and reduces LLM costs. Extracts structured facts with logical inference, proof chains, and truth maintenance. Python SDK with native LangChain integration. ![GitHub Repo stars](https://img.shields.io/github/stars/Auctalis/nocturnusai?style=social)
+- 
 ### Agents
 
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
