@@ -304,6 +304,7 @@ List of non-official ports of LangChain to other languages.
 - [TensorZero](https://github.com/tensorzero/tensorzero): An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. ![GitHub Repo stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social)
 - [Bifrost](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Mastra AI](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [VoiceTrace](https://github.com/weekendpm/voice-observation-v2): Voice pipeline observability — runs dual STT providers (Deepgram + Sarvam) side-by-side, attributes cross-modal failures to specific LangGraph nodes, and auto-generates prompt fixes via self-correction. ![GitHub Repo stars](https://img.shields.io/github/stars/weekendpm/voice-observation-v2?style=social)
 
 ## Complement to this list
 
