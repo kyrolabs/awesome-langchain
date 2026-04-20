@@ -111,6 +111,7 @@ List of non-official ports of LangChain to other languages.
 - [BlockAGI](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 
+- [EmblemAI](https://github.com/EmblemCompany/EmblemAi-AgentWallet): Agent wallet SDK with 200+ crypto tools across 7 chains, usable via the MCP bridge in Claude Code / Cursor / Gemini CLI. Supports x402 micropayments and A2A. ![GitHub Repo stars](https://img.shields.io/github/stars/EmblemCompany/EmblemAi-AgentWallet?style=social)
 
 ### Templates
 
