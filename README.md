@@ -63,6 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [langchain-x402-toolkit](https://github.com/bartonguestier1725-collab/langchain-x402-toolkit): 3 tools for 2,400+ x402 pay-per-call APIs — discover, call, and check balance. No wallet setup, $0.05 trial credit. ![GitHub Repo stars](https://img.shields.io/github/stars/bartonguestier1725-collab/langchain-x402-toolkit?style=social)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
