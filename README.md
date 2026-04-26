@@ -63,6 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
