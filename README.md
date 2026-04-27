@@ -55,6 +55,8 @@ List of non-official ports of LangChain to other languages.
 
 ## Tools
 
+- [Consensus Engine](https://github.com/MICONNM/consensus-engine-py) - API client that queries 11 frontier LLMs in parallel and synthesizes consensus with confidence score. Useful for AI-assisted decision-making where ensemble disagreement is signal.
+
 ### Low-code
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
