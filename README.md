@@ -54,6 +54,7 @@ List of non-official ports of LangChain to other languages.
 - [Langchain-rust](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
 ## Tools
+- [langchain-agentfetch](https://github.com/bch1212/langchain-agentfetch) - LangChain Tool + Toolkit for AgentFetch. Token-budgeted web fetch for agents — `estimate_tokens` before `fetch_url`, auto-routes between Trafilatura/Jina/FireCrawl/pypdf, 6h cache, server-side `max_tokens` truncation. `pip install langchain-agentfetch`.
 
 ### Low-code
 
