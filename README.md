@@ -147,6 +147,7 @@ List of non-official ports of LangChain to other languages.
 - [SolidGPT](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
 - [Minima](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
 - [pdfmux](https://github.com/NameetP/pdfmux): PDF-to-Markdown extraction with per-page confidence scoring and self-healing fallback. Native LangChain document loader (`PdfmuxLoader`); built for RAG pipelines that can't tolerate silent extraction failures. ![GitHub Repo stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=social)
+- [swiss-truth-langchain](https://pypi.org/project/swiss-truth-langchain/) - LangChain tools & retriever for Swiss Truth — verified knowledge base with 3000+ certified facts across 38 domains. Includes 9 tools, SwissTruthRetriever for RAG, and SwissTruthToolkit. Prevents hallucinations on Swiss/EU regulatory topics. ![GitHub Repo stars](https://img.shields.io/github/stars/swisstruthorg/swiss-truth-mcp?style=social)
 
 ### Other / Chatbots
 
