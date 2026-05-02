@@ -90,6 +90,7 @@ List of non-official ports of LangChain to other languages.
 - [Veritensor](https://github.com/arsbr/Veritensor) - Native security wrappers for LangChain DocumentLoaders to block prompt injections, stealth attacks, and PII leaks during RAG data ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/arsbr/Veritensor?style=social)
 - [Mengram](https://github.com/alibaizhanov/mengram): Long-term memory for LangChain agents — semantic, episodic & procedural memory with Graph RAG. Includes MengramRetriever for RAG pipelines. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=social)
 - [Ziran](https://github.com/taoq-ai/ziran): Open-source security testing framework for AI agents. Discovers dangerous tool chain compositions via graph analysis, detects execution-level side effects, and runs multi-phase trust exploitation campaigns. ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
+- [Voidly Pay (LangChain)](https://github.com/voidly-ai/voidly-pay): LangChain BaseTool toolkit (`voidly-pay-langchain` on PyPI) for x402 micropayments — lets agents pay per call in USDC on Base, hire other agents, open escrow/streams/subscriptions, and access a marketplace of 17 paid endpoints. ![GitHub Repo stars](https://img.shields.io/github/stars/voidly-ai/voidly-pay?style=social)
 
 ### Agents
 
