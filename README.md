@@ -63,7 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
-- [Agent-Memory-Guard](https://github.com/OWASP/www-project-agent-memory-guard): Memory poisoning defense middleware for LangChain agents. OWASP reference implementation.
+- [Agent-Memory-Guard](https://github.com/OWASP/www-project-agent-memory-guard): Memory poisoning defense middleware for LangChain agents. OWASP reference implementation. ![](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard.svg?style=social&label=Star&maxAge=2592000)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
