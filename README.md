@@ -85,6 +85,7 @@ List of non-official ports of LangChain to other languages.
 - [LangWatch](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
+- [langchain-dakera](https://github.com/Dakera-AI/dakera-mcp): Persistent decay-weighted memory layer for LangChain agents — connect to a self-hosted Rust memory server with knowledge graph and temporal recall via MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/Dakera-AI/dakera-mcp?style=social)
 
 ### Agents
 
