@@ -63,6 +63,8 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [Agent Amplifier](https://github.com/qualixar/agent-amplifier): Runtime amplification layer for LangChain agents. Five deterministic hooks add effort routing, goal anchoring, convergence detection, persona escalation, and token budgeting — zero extra LLM calls. Also wraps Claude Code, Cursor, GitHub Copilot, LangGraph, CrewAI, AgentScope. AGPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/qualixar/agent-amplifier?style=social)
+
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
