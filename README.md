@@ -1,5 +1,5 @@
 # 🦜🔗 Awesome LangChain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
-
+h
 > Curated list of tools and projects using LangChain.
 
 LangChain is an amazing framework to get LLM projects done in a matter of no time, and the ecosystem is growing fast.
@@ -85,6 +85,7 @@ List of non-official ports of LangChain to other languages.
 - [LangWatch](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
+- [langchain-trust-gate](https://github.com/vdineshk/daee-engine/tree/main/packages/langchain-trust-gate): LangChain tool for behavioral trust scoring via Dominion Observatory. Gate agent actions on real attestation data before executing sensitive operations. ![GitHub Repo stars](https://img.shields.io/github/stars/vdineshk/daee-engine?style=social)
 
 ### Agents
 
