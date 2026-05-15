@@ -85,6 +85,7 @@ List of non-official ports of LangChain to other languages.
 - [LangWatch](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
+- [Synap](https://github.com/maximem-ai/maximem_synap_sdk): Managed long-term memory layer for AI agents — automatically extracts facts, preferences, episodes, and temporal events from conversations. Drop-in `BaseChatMessageHistory`, `BaseRetriever`, agent tools, callback handler, and LangGraph node via `maximem-synap-langchain`. ![GitHub Repo stars](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk?style=social)
 
 ### Agents
 
