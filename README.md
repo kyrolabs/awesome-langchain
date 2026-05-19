@@ -306,6 +306,7 @@ List of non-official ports of LangChain to other languages.
 - [Bifrost](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 - [Mastra AI](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [Promptise Foundry](https://github.com/promptise-com/foundry): Production Python framework for agentic AI — controllable reasoning, a full MCP server SDK, autonomous runtime, memory, governance, security, and observability. Works with any LangChain `BaseChatModel`. ![GitHub Repo stars](https://img.shields.io/github/stars/promptise-com/foundry?style=social)
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit): A small composable JavaScript toolkit for building AI agents (UI bindings, runtime, tools, memory, RAG) with a LangChain.js adapter ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit?style=social)
 
 ## Complement to this list
 
