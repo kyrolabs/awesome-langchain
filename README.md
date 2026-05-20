@@ -5,6 +5,7 @@
 LangChain is an amazing framework to get LLM projects done in a matter of no time, and the ecosystem is growing fast.
 Here is an attempt to keep track of the initiatives around LangChain.
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 **[Subscribe to the newsletter](https://awesomelangchain.substack.com/)** to stay informed about the Awesome LangChain. We send a couple of emails per month about the articles, videos, projects, and tools that grabbed our attention
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
