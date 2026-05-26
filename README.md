@@ -58,8 +58,9 @@ List of non-official ports of LangChain to other languages.
 ### Low-code
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
-- [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
+### Monitoring
 - [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
+- [Dominion Observatory](https://github.com/vdineshk/dominion-observatory): Behavioral trust scoring for MCP servers — provides trust scores, SLA grades, and anomaly detection for LangChain tool integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/vdineshk/dominion-observatory?style=social)
   
 ### Services
 
