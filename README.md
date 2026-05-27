@@ -313,3 +313,5 @@ List of non-official ports of LangChain to other languages.
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
 - [LLaMA Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
 - [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
+
+- [rag-radar](https://github.com/linny006/rag-radar): Live, auto-updated index of newest RAG (retrieval-augmented generation) implementations and tools on GitHub, refreshed every 15 minutes via GitHub Actions. ![GitHub Repo stars](https://img.shields.io/github/stars/linny006/rag-radar?style=social)
