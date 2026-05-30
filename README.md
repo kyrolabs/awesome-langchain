@@ -194,6 +194,7 @@ List of non-official ports of LangChain to other languages.
 ### Notebooks
 
 - [Langchain Tutorials](https://github.com/gkamradt/langchain-tutorials): overview and tutorial of the LangChain Library ![GitHub Repo stars](https://img.shields.io/github/stars/gkamradt/langchain-tutorials?style=social)
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques): step-by-step notebooks implementing 35+ advanced RAG techniques (chunking, reranking, HyDE, self-RAG, graph RAG) with LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social)
 - [LangChain Chinese Getting Started Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): Chinese LangChain Tutorial for Beginners ![GitHub Repo stars](https://img.shields.io/github/stars/liaokongVFX/LangChain-Chinese-Getting-Started-Guide?style=social)
 - [Flan5 LLM](https://colab.research.google.com/drive/1AVh9dOsG9DKzfK7gOFrJuitPIcLPqlbO?usp=sharing): PDF QA using LangChain for chain of thought and multi-task instructions, Flan5 on HuggingFace
 - [LangChain Handbook](https://github.com/pinecone-io/examples/tree/master/generation/langchain/handbook): Pinecone / James Briggs' LangChain handbook
