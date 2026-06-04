@@ -188,6 +188,7 @@ List of non-official ports of LangChain to other languages.
 - [PersonalityChatbot](https://github.com/btrcm00/chatbot-with-langchain): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/btrcm00/chatbot-with-langchain?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)
+- [AI Chatbot Backend](https://github.com/hasandeveloper/chat-bot): Production-ready chatbot backend with RAG, LangGraph orchestration, Redis memory, hallucination prevention via score gate, and multi-LLM support (OpenAI, Anthropic, Groq) ![GitHub Repo stars](https://img.shields.io/github/stars/hasandeveloper/chat-bot?style=social)
 
 ## Learn
 
