@@ -125,6 +125,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Platforms
 
+- [LoopGuard](https://github.com/Charbelto/loopguard): A lightweight, zero-dependency Python framework-agnostic loop prevention and agentic guardrails engine for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/Charbelto/loopguard?style=social)
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 
