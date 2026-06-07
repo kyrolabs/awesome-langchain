@@ -147,6 +147,7 @@ List of non-official ports of LangChain to other languages.
 - [SolidGPT](https://github.com/AI-Citizen/SolidGPT): Chat everything with your code repository, ask repository level code questions, and discuss your requirements ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Citizen/SolidGPT?style=social)
 - [Minima](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
 - [pdfmux](https://github.com/NameetP/pdfmux): PDF-to-Markdown extraction with per-page confidence scoring and self-healing fallback. Native LangChain document loader (`PdfmuxLoader`); built for RAG pipelines that can't tolerate silent extraction failures. ![GitHub Repo stars](https://img.shields.io/github/stars/NameetP/pdfmux?style=social)
+- [AgenticMind](https://github.com/Moai-Team-LLC/AgenticMind): Auditable, self-improving knowledge & memory for AI agents over MCP — citation-enforced answers (no source, no claim) and a replayable why-trace, self-hosted on Postgres alone. Plugs into LangChain/LangGraph via `langchain-mcp-adapters` ([guide](https://github.com/Moai-Team-LLC/AgenticMind/blob/main/examples/frameworks/langchain.md)). ![GitHub Repo stars](https://img.shields.io/github/stars/Moai-Team-LLC/AgenticMind?style=social)
 
 ### Other / Chatbots
 
