@@ -122,6 +122,7 @@ List of non-official ports of LangChain to other languages.
 - [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
 - [AI Getting Started](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
 - [Embedchain](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+- [iwantfyi-langchain](https://github.com/staugs/iwantfyi-langchain): LangChain tools for iwant.fyi's demand-side commerce protocol — agents express structured purchase intent and get product matches ranked across multiple sources in one call ![GitHub Repo stars](https://img.shields.io/github/stars/staugs/iwantfyi-langchain?style=social)
 
 ### Platforms
 
