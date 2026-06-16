@@ -63,6 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [GCF Proxy](https://github.com/blackwell-systems/gcf-proxy): Drop-in proxy that compresses LLM tool responses by 61-71% using GCF wire format. Works with any LangChain tool or MCP server. Zero code changes. ![GitHub Repo stars](https://img.shields.io/github/stars/blackwell-systems/gcf-proxy?style=social)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
