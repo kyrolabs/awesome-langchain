@@ -128,6 +128,7 @@ List of non-official ports of LangChain to other languages.
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 
+- [Melaya](https://melaya.org): Drag-drop agentic platform with 1,200+ scoped tools, 100+ subagent templates, 16 prebuilt crews, and a 7-persona Trading Crew. Bring any of 20+ AI providers per agent (LangChain providers, Claude, GPT, Gemini, Ollama, LM Studio, ...). HITL on every write, full audit trail, native MCP client. Wired to a Rust trading engine at 420 ns per bar across 65 CEX and 6 prediction markets. Open benchmarks at https://melaya.org/benchmarks.
 ## Open Source Projects
 
 ### Knowledge Management
