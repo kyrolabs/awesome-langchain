@@ -127,6 +127,7 @@ List of non-official ports of LangChain to other languages.
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
+- - [TrustLoop](https://github.com/SMJAI/trustloop-python-sdk): AI governance layer for LangChain agents — intercepts tool calls, enforces plain-English policies, and logs to a tamper-proof audit trail. `pip install trustloop-sdk[langchain]` ![GitHub Repo stars](https://img.shields.io/github/stars/SMJAI/trustloop-python-sdk?style=social)
 
 ## Open Source Projects
 
