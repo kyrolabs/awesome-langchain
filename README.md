@@ -63,6 +63,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [true402](https://github.com/true402/langchain-true402): pay-per-call on-chain token-safety tools for Base agents — a real buy/sell honeypot simulation (state-override eth_call) proves sellability (not just a static scan), plus liquidity, ownership/mint and deployer checks, over x402 (USDC, no API key) ![GitHub Repo stars](https://img.shields.io/github/stars/true402/langchain-true402?style=social)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [LlamaHub](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
