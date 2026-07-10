@@ -127,7 +127,7 @@ List of non-official ports of LangChain to other languages.
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
-- [PayPack](https://github.com/rhcjw/paypack) - Universal payment middleware for AI agents. x402/AP2 protocols, ETH/USDC, ERC-4337 batch settlement, AWS KMS signing.
+- [PayPack](https://github.com/rhcjw/paypack) - Universal payment middleware for AI agents. x402/AP2 + USDC/ETH on-chain + Alipay/WeChat CNY fiat. ERC-4337 batch, KMS signing, Dify plugin. [![GitHub Repo stars](https://img.shields.io/github/stars/rhcjw/paypack?style=social)](https://github.com/rhcjw/paypack)
 
 ## Open Source Projects
 
