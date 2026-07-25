@@ -207,6 +207,7 @@ List of non-official ports of LangChain to other languages.
 - [BYO Knowledge Graph](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
 - [Large Language Models Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 - [Learn LangChain (JS)](https://github.com/iparesh18/Learn-LangChain) – A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.
+- [Cosas Agénticas — Guía de Agentes IA](https://cosasagenticas.com/): Spanish-native practical guide (English version in the works) to building LLM agents, with LangChain/LangGraph patterns for tools, memory, and multi-agent orchestration — PDF + free web index
 
 
 ### Videos Playlists
