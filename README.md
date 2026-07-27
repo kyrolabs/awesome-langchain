@@ -86,6 +86,7 @@ List of non-official ports of LangChain to other languages.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 
+- [UnblockAPI](https://github.com/unblockapi/unblockapi): Multi-service API for LangChain agents — captcha solving (40+ types), headless browser rendering, temp email, SMS verification, screenshots, and web search. One API key, flat pricing from $0.05/call. Ships with native MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/unblockapi/unblockapi?style=social)
 ### Agents
 
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
