@@ -216,6 +216,8 @@ List of non-official ports of LangChain to other languages.
 - [LangChain James Briggs' Playlist](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 - [Greg Kamradt Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI): Eight-platform full-stack AI operating system unifying 176 LLMs via LangGraph + MCP + A2A, with RAG knowledge base, agent marketplace, and multi-tenant RLS over 340 tables. ![GitHub Repo stars](https://img.shields.io/github/stars/IHUI-INF-AI/IHUI-AI?style=social)
+
 ## Other LLM Frameworks
 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
