@@ -40,6 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Youtube Channel](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
 - [Langchain Blog](https://blog.langchain.dev/): The Official Langchain blog
 - [LangServe](https://github.com/langchain-ai/langserve): LangServe helps developers deploy LangChain runnables and chains as a REST API. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langserve?style=social)
+- [Langhost](https://github.com/langhost/langhost): Self-hosted LangGraph Agent Server on Postgres and Redis; works with LangGraph SDK and Studio without a license key. ![GitHub Repo stars](https://img.shields.io/github/stars/langhost/langhost?style=social)
 
 ## Ports to other languages
 
