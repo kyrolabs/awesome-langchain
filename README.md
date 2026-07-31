@@ -18,6 +18,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Tools](#tools)
     - [Low-code](#low-code)
     - [Services](#services)
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon): Open-source autonomous AI pentesting agent exposing a "Darkmoon CyberSecurity" MCP server (12 tools) across web/API/AD/Kubernetes; runs on cloud or local LLMs (Ollama, llama.cpp) with a local Privacy Gateway. ![GitHub Repo stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social)
     - [Agents](#agents)
     - [Templates](#templates)
     - [Platforms](#platforms)
