@@ -110,7 +110,7 @@ List of non-official ports of LangChain to other languages.
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 - [BlockAGI](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
-- [NexusGenesis](https://github.com/nexus-genesis/nexusgenesis): AI Agent Coordination Protocol — blockchain where AI agents register, discover, and collaborate. MCP-compatible via `npx nexusgenesis-mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/nexus-genesis/nexusgenesis?style=social)
+- [NexusGenesis](https://github.com/nexus-genesis/nexusgenesis): Agent key security & coordination — post-quantum self-custody keys for AI agents with human takeover. MCP-compatible via `npx nexusgenesis-agent-mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/nexus-genesis/nexusgenesis?style=social)
 
 
 ### Templates
@@ -313,4 +313,4 @@ List of non-official ports of LangChain to other languages.
 - [Open LLMs](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
 - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model resources. ![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
 - [LLaMA Cult and More](https://github.com/shm007g/LLaMA-Cult-and-More): Keeping Track of Affordable LLMs, 🦙 Cult and More ![GitHub Repo stars](https://img.shields.io/github/stars/shm007g/LLaMA-Cult-and-More?style=social)
-- [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper "Cognitive Architectures for Language Agents" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
+- [Awesome Language Agents](https://github.com/ysymyth/awesome-language-agents): List of language agents based on paper \"Cognitive Architectures for Language Agents\" ![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=social)
