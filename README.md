@@ -123,6 +123,7 @@ List of non-official ports of LangChain to other languages.
 - [AI Getting Started](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
 - [Embedchain](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
+- [Agent Builder Skill](https://github.com/weed33834/agent-builder-skill): A TRAE Skill that generates production-ready AI agents from natural-language requirements. LangGraph v1.0+ (StateGraph, Command routing, create_react_agent v2), 10-layer architecture, config-driven code generation. ![GitHub Repo stars](https://img.shields.io/github/stars/weed33834/agent-builder-skill?style=social)
 ### Platforms
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
