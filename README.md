@@ -9,6 +9,8 @@ Here is an attempt to keep track of the initiatives around LangChain.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the [contribution guidelines](contributing.md) before contributing.
 
+- [ViBo](https://github.com/vnbochkarev-netizen/ViBo-memory) — encrypted persistent memory for AI agents: L1/L2/L3 (secrets never reach the LLM), web search savings 99.6%, thread memory -72%. Measured 97.5% fewer tokens. $5/mo, free trial. Site: https://wwwvibo.com
+
 ## Table of Contents
 
 - [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
