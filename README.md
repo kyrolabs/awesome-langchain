@@ -80,6 +80,7 @@ List of non-official ports of LangChain to other languages.
 - [LangWatch](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
+- [piighost](https://github.com/Athroniaeth/piighost): anonymizes PII before it reaches the LLM. You wrap a pipeline in `PIIAnonymizationMiddleware` and add it to `create_agent`, so the model only sees placeholders like `<<PERSON:1>>` while your tools still receive the real values, kept stable across a thread and across tool calls. ![GitHub Repo stars](https://img.shields.io/github/stars/Athroniaeth/piighost?style=social)
 
 ### Agents
 
