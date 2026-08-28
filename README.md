@@ -53,6 +53,8 @@ List of non-official ports of LangChain to other languages.
 
 ## Tools
 
+- [SandBase CLI](https://github.com/sandbaseai/cli): Local MCP gateway CLI for discovering and invoking 2,000+ AI models through one interface; usable as a tool backend for agent workflows.
+
 ### Low-code
 
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
