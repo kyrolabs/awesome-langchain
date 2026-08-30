@@ -102,6 +102,7 @@ List of non-official ports of LangChain to other languages.
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 - [BlockAGI](https://github.com/orgexyz/BlockAGI): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/BlockAGI?style=social)
 - [deepagents](https://github.com/langchain-ai/deepagents): LangChain's framework for building deep agents that plan, delegate to sub-agents, and work against a virtual file system over long-horizon tasks. Includes dcode, a model-agnostic open-source coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
+- [CONTINUUM](https://github.com/Cyrax321/CONTINUUM): Universal verifiable recovery for long-running AI agents with semantic checkpoints and hash chained log ![GitHub Repo stars](https://img.shields.io/github/stars/Cyrax321/CONTINUUM?style=social)
 
 
 ### Templates
