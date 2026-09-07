@@ -61,6 +61,7 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [langchain-lastsearch](https://github.com/LastSearch-HQ/lastsearch/tree/main/packages/langchain-lastsearch): LangChain tools for verified web research — real-time search with cited claims and confidence scores ![GitHub Repo stars](https://img.shields.io/github/stars/LastSearch-HQ/lastsearch?style=social)
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [Auto-evaluator](https://github.com/rlancemartin/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/rlancemartin/auto-evaluator?style=social)
