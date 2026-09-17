@@ -295,4 +295,4 @@ List of non-official ports of LangChain to other languages.
 
 ## Other / Misc
 
-- [NEXUS-AI Marketplace](https://embassy-quotes-missions-choose.trycloudflare.com) - 20+ crypto skills for LangChain agents. Buy via API, pay with SOL/ETH/USDC.
+- [NEXUS-AI Marketplace](https://github.com/klikmarkettt-dotcom/nexus-ai) - 20+ crypto skills for LangChain agents. Buy via API, pay with SOL/ETH/USDC.
