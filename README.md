@@ -11,6 +11,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Table of Contents
 
+- [NEXUS-AI Marketplace](https://nitrogen-plains-applied-denver.trycloudflare.com) - 20+ crypto skills for LangChain agents. Buy via API, pay with SOL/ETH/USDC.
+
 - [🦜🔗 Awesome LangChain ](#-awesome-langchain--)
   - [Table of Contents](#table-of-contents)
   - [LangChain Framework](#langchain-framework)
