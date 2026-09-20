@@ -60,6 +60,7 @@ List of non-official ports of LangChain to other languages.
 - [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
   
 ### Services
+- [contextpress](https://github.com/Taha-azizi/contextpress): Deterministic context compression for LLM chat, RAG, and agent pipelines; works with LangChain-style message lists via `compress()` ![GitHub Repo stars](https://img.shields.io/github/stars/Taha-azizi/contextpress?style=social)
 
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
