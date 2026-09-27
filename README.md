@@ -119,6 +119,7 @@ List of non-official ports of LangChain to other languages.
 
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
+- [langchain-fairseal](https://github.com/ned-del/fairseal): On-chain cryptographic notarization for LangChain tool calls — every agent decision gets a verifiable receipt anchored to Base mainnet. Install: `pip install langchain-fairseal` ([PyPI](https://pypi.org/project/langchain-fairseal/))
 - [Pixeltable](https://github.com/pixeltable/pixeltable): Declarative multimodal AI data engine providing versioned tables, computed columns, and native LangChain VectorStore (`langchain-pixeltable`) and LangGraph memory store (`langgraph-store-pixeltable`) integrations. [![GitHub Repo stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=social)](https://github.com/pixeltable/pixeltable)
 
 ## Open Source Projects
