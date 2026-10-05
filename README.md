@@ -115,6 +115,7 @@ List of non-official ports of LangChain to other languages.
 - [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
 - [AI Getting Started](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
 - [Mem0](https://github.com/mem0ai/mem0): Universal memory layer for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
+- [Full-Stack AI Agent Template](https://github.com/vstorm-co/full-stack-ai-agent-template): FastAPI + Next.js project generator where the agent backend can be LangChain, LangGraph or DeepAgents (or Pydantic AI), with WebSocket streaming, RAG, auth and Docker setup ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/full-stack-ai-agent-template?style=social)
 
 ### Platforms
 
