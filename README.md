@@ -2,6 +2,7 @@
 
 > Curated list of tools and projects using LangChain.
 
+- [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** — Cross-client AI memory hub. Tamper-evident evidence chain, supersession chains, 23 client adapters. 334 tests. Apache-2.0. `pip install memtether`
 LangChain is an amazing framework to get LLM projects done in a matter of no time, and the ecosystem is growing fast.
 Here is an attempt to keep track of the initiatives around LangChain.
 
