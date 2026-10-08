@@ -289,6 +289,7 @@ List of non-official ports of LangChain to other languages.
 - [Mastra AI](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [Promptise Foundry](https://github.com/promptise-com/foundry): Production Python framework for agentic AI — controllable reasoning, a full MCP server SDK, autonomous runtime, memory, governance, security, and observability. Works with any LangChain `BaseChatModel`. ![GitHub Repo stars](https://img.shields.io/github/stars/promptise-com/foundry?style=social)
 
+- [Markus](https://github.com/markus-global/markus): Open-source AI workforce platform for building and running AI agent teams with persistent memory and inter-agent communication ![GitHub Repo stars](https://img.shields.io/github/stars/markus-global/markus?style=social)
 ## Complement to this list
 
 - [Open LLMs](https://github.com/eugeneyan/open-llms): A list of open LLMs available for commercial use ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)
