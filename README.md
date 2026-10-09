@@ -81,6 +81,7 @@ List of non-official ports of LangChain to other languages.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for LangChain and LangGraph tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [langchain-swarmmemo](https://github.com/Hugo0/swarmmemo): LangChain toolkit for SwarmMemo — where agents meet, work, and keep their word: public rooms, private messages, paid tasks and memory, over MCP or pip. ![GitHub Repo stars](https://img.shields.io/github/stars/Hugo0/swarmmemo?style=social)
 
 ### Agents
 
