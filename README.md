@@ -104,6 +104,7 @@ List of non-official ports of LangChain to other languages.
 - [BlockAGI](https://github.com/orgexyz/BlockAGI): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/orgexyz/BlockAGI?style=social)
 - [deepagents](https://github.com/langchain-ai/deepagents): LangChain's framework for building deep agents that plan, delegate to sub-agents, and work against a virtual file system over long-horizon tasks. Includes dcode, a model-agnostic open-source coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social)
 - [RedAmon](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
+- [DeerFlow](https://github.com/bytedance/deer-flow) - LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. Includes an [optional Parallel Search MCP example](https://github.com/bytedance/deer-flow/blob/main/backend/docs/MCP_SERVER.md#parallel-search-optional) for free web search and page fetching without an API key. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 
 
 ### Templates
