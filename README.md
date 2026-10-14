@@ -30,6 +30,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Other LLM Frameworks](#other-llm-frameworks)
   - [Complement to this list](#complement-to-this-list)
 
+- [Docs-to-JSON MCP](https://github.com/Alex-Dev-Web-C-DE/document-to-json-mcp) — Document extraction MCP server. 100+ types. Streamable HTTP. Compatible with LangChain MCP adapters.
+- [Compliance Engine](https://github.com/Alex-Dev-Web-C-DE/compliance-engine) — Sanctions screening + PEP + entities REST API.
+
 ## LangChain Framework
 
 - [LangChain](https://github.com/langchain-ai/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
