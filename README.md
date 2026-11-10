@@ -61,6 +61,8 @@ List of non-official ports of LangChain to other languages.
   
 ### Services
 
+- [A2AClear](https://github.com/unnataisolutions-wq/a2aclear): Sovereign Agent-to-Agent Clearinghouse & Settlement Standard (RFC-0001) for LangChain multi-agent micro-escrows and atomic payments ![GitHub Repo stars](https://img.shields.io/github/stars/unnataisolutions-wq/a2aclear?style=social)
+
 - [GPTCache](https://github.com/zilliztech/GPTCache): A Library for Creating Semantic Cache for LLM Queries ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social)
 - [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 - [Auto-evaluator](https://github.com/rlancemartin/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/rlancemartin/auto-evaluator?style=social)
