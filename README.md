@@ -108,6 +108,7 @@ List of non-official ports of LangChain to other languages.
 - [RedAmon](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 - [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [CUGA](https://github.com/cuga-project/cuga-agent): IBM Research's open-source agent harness built on LangGraph. Runs multi-step tasks over APIs (OpenAPI, MCP, LangChain tools) and the web, with policies and human-in-the-loop approval. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
+- [multi-model-agent-debate](https://github.com/3038816077/multi-model-agent-debate): Multi-model debate agent built on LangGraph - several LLMs answer independently, critique each other, then a chief model synthesizes the final answer. Includes Hybrid RAG (BM25 + FAISS + rerank), PDF/Word Q&A and SSE streaming.
 
 
 ### Templates
