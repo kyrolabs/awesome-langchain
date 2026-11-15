@@ -59,6 +59,10 @@ List of non-official ports of LangChain to other languages.
 - [Langflow](https://github.com/langflow-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)
 - [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
 - [RocketRide](https://github.com/rocketride-org/rocketride-server): Open-source AI meta-harness with a C++ runtime and a visual canvas for building agents and RAG pipelines, with LangChain agent and text-splitter nodes ![GitHub Repo stars](https://img.shields.io/github/stars/rocketride-org/rocketride-server?style=social)
+### Security & Guardrails
+
+- [langchain-starring](https://github.com/starring-ai-sec/star-ring-agent-sentinel): An offline behavior security sentinel for AI Agents, preventing malicious tool call chains such as read_sms to send_credentials. ![GitHub Repo stars](https://img.shields.io/github/stars/starring-ai-sec/star-ring-agent-sentinel?style=social)
+
   
 ### Services
 
