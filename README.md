@@ -69,6 +69,7 @@ List of non-official ports of LangChain to other languages.
 - [LLM Strategy](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
 - [datasetGPT](https://github.com/radi-cho/datasetGPT): A command-line interface to generate textual and conversational datasets with LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)
 - [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote MCP server and structured accessibility directory covering 2,200+ North American live-music venues.
 - [Chainlit](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
 - [Langchain Decorators](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
 - [AilingBot](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
