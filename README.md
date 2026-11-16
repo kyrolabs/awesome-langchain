@@ -123,6 +123,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Platforms
 
+- [goduck-platform](https://github.com/JJASMINE22/goduck-platform): Self-hosted platform for building and orchestrating personal AI agents on deepagents + LangGraph, with streaming HITL sessions, MCP gateway, RAG knowledge base and cron jobs ![GitHub Repo stars](https://img.shields.io/github/stars/JJASMINE22/goduck-platform?style=social)
 - [Openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry ![GitHub Repo stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social)
 - [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 - [Pixeltable](https://github.com/pixeltable/pixeltable): Declarative multimodal AI data engine providing versioned tables, computed columns, and native LangChain VectorStore (`langchain-pixeltable`) and LangGraph memory store (`langgraph-store-pixeltable`) integrations. [![GitHub Repo stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=social)](https://github.com/pixeltable/pixeltable)
