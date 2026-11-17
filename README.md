@@ -83,6 +83,7 @@ List of non-official ports of LangChain to other languages.
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for LangChain and LangGraph tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [LangChain Agent Skills](https://github.com/soba-labs/langchain-agent-skills): Agent skills that teach AI coding assistants (Claude Code, Codex, Cursor) to build, test and deploy LangChain, LangGraph, LangSmith and Deep Agents projects ![GitHub Repo stars](https://img.shields.io/github/stars/soba-labs/langchain-agent-skills?style=social)
+- [complydoc](https://github.com/complydoc/complydoc): Get document loading right. Compare LangChain loaders page by page, trace each loader, splitter and embedding call with `cd.observe`, and evaluate what reaches your model ![GitHub Repo stars](https://img.shields.io/github/stars/complydoc/complydoc?style=social)
 
 ### Agents
 
