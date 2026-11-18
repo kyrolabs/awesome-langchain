@@ -54,7 +54,6 @@ List of non-official ports of LangChain to other languages.
 ## Tools
 
 ### Low-code
-
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS. Archived: [end of life](https://flowiseai.com/sunset) on August 31, 2026, no further updates ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [Langflow](https://github.com/langflow-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)
 - [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
@@ -82,6 +81,7 @@ List of non-official ports of LangChain to other languages.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 - [UQLM](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for LangChain and LangGraph tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- - [guardrail-middleware](https://github.com/Niraj21-star/guardrail-middleware) - Runtime authorization for AI agent tool calls: policy checks, injection and taint detectors, and a hash-chained audit log, checked before any action executes.
 - [LangChain Agent Skills](https://github.com/soba-labs/langchain-agent-skills): Agent skills that teach AI coding assistants (Claude Code, Codex, Cursor) to build, test and deploy LangChain, LangGraph, LangSmith and Deep Agents projects ![GitHub Repo stars](https://img.shields.io/github/stars/soba-labs/langchain-agent-skills?style=social)
 
 ### Agents
