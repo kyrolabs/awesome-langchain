@@ -108,6 +108,7 @@ List of non-official ports of LangChain to other languages.
 - [RedAmon](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 - [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [CUGA](https://github.com/cuga-project/cuga-agent): IBM Research's open-source agent harness built on LangGraph. Runs multi-step tasks over APIs (OpenAPI, MCP, LangChain tools) and the web, with policies and human-in-the-loop approval. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp): 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 
 ### Templates
