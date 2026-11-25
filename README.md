@@ -108,6 +108,7 @@ List of non-official ports of LangChain to other languages.
 - [RedAmon](https://github.com/samugit83/redamon): Open-source AI penetration testing framework built on LangGraph. Its agent plans and runs security tests from a Kali sandbox, pauses for human approval at critical steps, and opens pull requests that fix what it finds ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 - [DeerFlow](https://github.com/bytedance/deer-flow): LangGraph-based agent system with sandbox execution, persistent memory, and extensible tools. (https://img.shields.io/github/stars/bytedance/deer-flow?style=social)
 - [CUGA](https://github.com/cuga-project/cuga-agent): IBM Research's open-source agent harness built on LangGraph. Runs multi-step tasks over APIs (OpenAPI, MCP, LangChain tools) and the web, with policies and human-in-the-loop approval. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
+- [LeadScout](https://github.com/hoangtrankim/lead-research-agents): LangGraph multi-agent lead research. Researcher, writer and reviewer agents with a revision loop write personalized outreach emails, streamed live. ![GitHub Repo stars](https://img.shields.io/github/stars/hoangtrankim/lead-research-agents?style=social)
 
 
 ### Templates
@@ -181,6 +182,7 @@ List of non-official ports of LangChain to other languages.
 - [PersonalityChatbot](https://github.com/minhbtrc/langchain-chatbot): Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB. ![GitHub Repo stars](https://img.shields.io/github/stars/minhbtrc/langchain-chatbot?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
 - [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/memfreeme/memfree?style=social)
+- [DocChat](https://github.com/hoangtrankim/rag-document-chatbot): PDF chatbot with page-level citations, built with LangChain, ChromaDB, local FastEmbed embeddings and Claude (FastAPI + Next.js). ![GitHub Repo stars](https://img.shields.io/github/stars/hoangtrankim/rag-document-chatbot?style=social)
 
 ## Learn
 
